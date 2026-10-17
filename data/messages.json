@@ -988,5 +988,16 @@
     "text": "Opened LONG CALL\nParadex · XAU · BLOCK TRADE\n17 Oct 2026 16:44:47 UTC\n🟢\nBUY 10 XAU\n·\n4,200 Call · 23 Oct 26\n@ $31.44 · IV 17.80%\nCost:\n$314.40 ·\nNotional:\n$41,617.59\nSpot:\n$4,161.76\nMax profit:\nunbounded ·\nMax loss:\n$314.40\nExpiry breakeven:\n$4,231.44 (+1.7%)\nExpiry P&L:\nMove       Spot       P&L\n+10%  $4,577.94   +$3.46K\n+5%  $4,369.85   +$1.38K\n+1.7%  $4,231.44     $0.00\n+0.9%     $4,200  -$314.40\nFlat  $4,161.76  -$314.40\nGreeks:\nΔ +3.44 XAU · Γ +0.04 XAU/$\nVega +$19.03/vol pt · Theta -$30.04/day\nID:\n1792255487300201709192270000",
     "url": "https://t.me/laevitas/590088",
     "utc": "2026-10-17T16:47:46+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/590089",
+    "post_id": 590089,
+    "source": "public_html",
+    "text": "SHORT PUT\nOKX · BTC · BLOCK TRADE\n17 Oct 2026 18:33:31 UTC\n🔴\nSELL 0.02 BTC\n·\n81,400 Put · 18 Oct 26\n@ $154.762 · IV 13.67%\nBid $146.617 · Ask $154.762 · at ask\nCredit:\n$3.10 ·\nNotional:\n$1,629.08\nSpot:\n$81,453.80\nMax profit:\n$3.10 ·\nMax loss:\n$1.62K\nExpiry breakeven:\n$81,245.24 (-0.3%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $81,453.8    +$3.10\n-0.1%     $81,400    +$3.10\n-0.3%  $81,245.24     $0.00\n-5%  $77,381.11   -$77.28\n-10%  $73,308.42  -$158.74\nGreeks:\nΔ +0.009 BTC · Γ -1.81e-05 BTC/$\nVega -$0.25/vol pt · Theta +$3.08/day\nID:\n4018465731527553024",
+    "url": "https://t.me/laevitas/590089",
+    "utc": "2026-10-17T18:48:39+00:00"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "archive_45d_count": 90,
+  "archive_45d_count": 91,
   "baseline_only": false,
   "channels": {
     "greekslivenews2": {
@@ -24,8 +24,8 @@
       "state": "reachable_but_freshness_not_established"
     },
     "laevitas": {
-      "latest_url": "https://t.me/laevitas/590088",
-      "latest_utc": "2026-10-17T16:47:46+00:00",
+      "latest_url": "https://t.me/laevitas/590089",
+      "latest_utc": "2026-10-17T18:48:39+00:00",
       "methods": {
         "public_html": {
           "ok": true,
@@ -45,22 +45,10 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-10-17T18:26:01.340656+00:00",
+  "checked_at_utc": "2026-10-17T21:24:44.507178+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 1,
-  "new_posts": [
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/590088",
-      "post_id": 590088,
-      "source": "public_html",
-      "text": "Opened LONG CALL\nParadex · XAU · BLOCK TRADE\n17 Oct 2026 16:44:47 UTC\n🟢\nBUY 10 XAU\n·\n4,200 Call · 23 Oct 26\n@ $31.44 · IV 17.80%\nCost:\n$314.40 ·\nNotional:\n$41,617.59\nSpot:\n$4,161.76\nMax profit:\nunbounded ·\nMax loss:\n$314.40\nExpiry breakeven:\n$4,231.44 (+1.7%)\nExpiry P&L:\nMove       Spot       P&L\n+10%  $4,577.94   +$3.46K\n+5%  $4,369.85   +$1.38K\n+1.7%  $4,231.44     $0.00\n+0.9%     $4,200  -$314.40\nFlat  $4,161.76  -$314.40\nGreeks:\nΔ +3.44 XAU · Γ +0.04 XAU/$\nVega +$19.03/vol pt · Theta -$30.04/day\nID:\n1792255487300201709192270000",
-      "url": "https://t.me/laevitas/590088",
-      "utc": "2026-10-17T16:47:46+00:00"
-    }
-  ],
+  "new_post_count": 0,
+  "new_posts": [],
   "note": "No new posts is not a data outage. A green workflow does not prove a fresh source.",
   "source_freshness_confirmed": true
 }
