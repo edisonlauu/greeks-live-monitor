@@ -1,6 +1,6 @@
 {
-  "archive_45d_count": 80,
-  "baseline_only": true,
+  "archive_45d_count": 84,
+  "baseline_only": false,
   "channels": {
     "greekslivenews2": {
       "latest_url": "https://t.me/greekslivenews2/21640",
@@ -9,10 +9,6 @@
         "public_html": {
           "ok": true,
           "pages": [
-            {
-              "count": 20,
-              "ok": true
-            },
             {
               "count": 20,
               "ok": true
@@ -28,16 +24,12 @@
       "state": "recent_post_verified"
     },
     "laevitas": {
-      "latest_url": "https://t.me/laevitas/590078",
-      "latest_utc": "2026-10-17T11:41:30+00:00",
+      "latest_url": "https://t.me/laevitas/590082",
+      "latest_utc": "2026-10-17T15:19:52+00:00",
       "methods": {
         "public_html": {
           "ok": true,
           "pages": [
-            {
-              "count": 20,
-              "ok": true
-            },
             {
               "count": 20,
               "ok": true
@@ -53,10 +45,44 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-10-17T11:50:49.425399+00:00",
+  "checked_at_utc": "2026-10-17T15:27:45.987227+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 0,
-  "new_posts": [],
+  "new_post_count": 3,
+  "new_posts": [
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590080",
+      "post_id": 590080,
+      "source": "public_html",
+      "text": "LONG CALL\nOKX · ETH · BLOCK TRADE\n17 Oct 2026 12:21:31 UTC\n🟢\nBUY 0.6 ETH\n·\n3,000 Call · 30 Oct 26\n@ $3.1524 · IV 57.62%\nBid $2.42492 · Ask $2.66741 · above ask\nCost:\n$1.89 ·\nNotional:\n$1,454.95\nSpot:\n$2,424.92\nMax profit:\nunbounded ·\nMax loss:\n$1.89\nBreakeven:\n$3,003.15\nExpiry P&L:\nMove       Spot     P&L\n-10%  $2,182.43  -$1.89\n-5%  $2,303.67  -$1.89\nFlat  $2,424.92  -$1.89\n+5%  $2,546.17  -$1.89\n+10%  $2,667.41  -$1.89\nGreeks:\nΔ +0.0166 ETH · Γ +0.000146 ETH/$\nVega +$0.17/vol pt · Theta -$0.39/day\nID:\n4017716821672153088",
+      "url": "https://t.me/laevitas/590080",
+      "utc": "2026-10-17T14:56:14+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590081",
+      "post_id": 590081,
+      "source": "public_html",
+      "text": "Opened LONG PUT\nDeribit · ETH · TRADE\n17 Oct 2026 15:00:27 UTC\n🟢\nBUY 200 ETH\n·\n2,200 Put · 24 Sep 27\n@ $323.592 · IV 53.91%\nBid $322.38 · Ask $324.804 · inside spread\nCost:\n$64,718.40 ·\nNotional:\n$484,782.00\nSpot:\n$2,423.91\nMax profit:\n$375.28K ·\nMax loss:\n$64.72K\nBreakeven:\n$1,876.41\nExpiry P&L:\nMove       Spot       P&L\n-10%  $2,181.52  -$61.02K\n-5%  $2,302.71  -$64.72K\nFlat  $2,423.91  -$64.72K\n+5%  $2,545.11  -$64.72K\n+10%   $2,666.3  -$64.72K\nGreeks:\nΔ -65.51 ETH · Γ +0.0571 ETH/$\nVega +$1.69K/vol pt · Theta -$133.60/day\nID:\nETH-313993873",
+      "url": "https://t.me/laevitas/590081",
+      "utc": "2026-10-17T15:00:37+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590082",
+      "post_id": 590082,
+      "source": "public_html",
+      "text": "Opened LONG PUT\nDeribit · ETH · TRADE\n17 Oct 2026 15:19:50 UTC\n🟢\nBUY 222 ETH\n·\n2,200 Put · 24 Sep 27\n@ $322.607 · IV 53.52%\nBid $321.398 · Ask $326.232 · inside spread\nCost:\n$71,618.70 ·\nNotional:\n$536,469.66\nSpot:\n$2,416.53\nMax profit:\n$416.78K ·\nMax loss:\n$71.62K\nBreakeven:\n$1,877.39\nExpiry P&L:\nMove       Spot       P&L\n-10%  $2,174.88  -$66.04K\n-5%   $2,295.7  -$71.62K\nFlat  $2,416.53  -$71.62K\n+5%  $2,537.36  -$71.62K\n+10%  $2,658.18  -$71.62K\nGreeks:\nΔ -73.24 ETH · Γ +0.0642 ETH/$\nVega +$1.88K/vol pt · Theta -$147.20/day\nID:\nETH-313995005",
+      "url": "https://t.me/laevitas/590082",
+      "utc": "2026-10-17T15:19:52+00:00"
+    }
+  ],
   "note": "No new posts is not a data outage. A green workflow does not prove a fresh source.",
   "source_freshness_confirmed": true
 }

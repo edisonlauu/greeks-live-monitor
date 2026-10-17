@@ -878,5 +878,49 @@
     "text": "CUSTOM STRATEGY\nderibit · ETH · BLOCK TRADE\n17 Oct 2026 11:41:24 UTC\n🔴\nSELL 25 ETH\n·\n2,400 Call · 27 Nov 26\n@ $178.724 · IV 48.71%\nBid $177.508 · Ask $179.94 · inside spread\n🔴\nSELL 25 ETH\n·\n2,400 Put · 27 Nov 26\n@ $135.928 · IV 48.64%\nBid $134.955 · Ask $137.387 · inside spread\n🟢\nBUY 100 ETH\n·\n2,450 Put · 30 Oct 26\n@ $90.2131 · IV 45.13%\nBid $88.7541 · Ask $91.1857 · inside spread\n🔴\nSELL 100 ETH\n·\n2,500 Put · 30 Oct 26\n@ $118.906 · IV 44.61%\nBid $116.718 · Ask $121.581 · inside spread\nCredit:\n$10,735.60 ·\nNotional:\n$607,905.00\nSpot:\n$2,431.62\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\n-10% -$1.82K · -5% -$844.65 · Flat -$786.53\n+5% +$3.39K · +10% +$1.83K\nGreeks:\nΔ +6.32 ETH · Γ -0.0441 ETH/$\nVega -$152.87/vol pt · Theta +$79.11/day\nID:\nBLOCK-303211",
     "url": "https://t.me/laevitas/590078",
     "utc": "2026-10-17T11:41:30+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/590079",
+    "post_id": 590079,
+    "source": "public_html",
+    "text": "LONG CALL\nokx · ETH · BLOCK TRADE\n17 Oct 2026 12:21:31 UTC\n🟢\nBUY 0.6 ETH\n·\n3,000 Call · 30 Oct 26\n@ $3.15537 · IV 58.59%\nBid $2.91265 · Ask $3.15537 · at ask\nCost:\n$1.89 ·\nNotional:\n$1,456.33\nSpot:\n$2,427.21\nMax profit:\nunbounded ·\nMax loss:\n$1.89\nBreakeven:\n$3,003.16\nExpiry P&L:\n-10% -$1.89 · -5% -$1.89 · Flat -$1.89\n+5% -$1.89 · +10% -$1.89\nGreeks:\nΔ +0.0183 ETH · Γ +0.000155 ETH/$\nVega +$0.19/vol pt · Theta -$0.43/day\nID:\n4017716821672153088",
+    "url": "https://t.me/laevitas/590079",
+    "utc": "2026-10-17T12:36:39+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/590080",
+    "post_id": 590080,
+    "source": "public_html",
+    "text": "LONG CALL\nOKX · ETH · BLOCK TRADE\n17 Oct 2026 12:21:31 UTC\n🟢\nBUY 0.6 ETH\n·\n3,000 Call · 30 Oct 26\n@ $3.1524 · IV 57.62%\nBid $2.42492 · Ask $2.66741 · above ask\nCost:\n$1.89 ·\nNotional:\n$1,454.95\nSpot:\n$2,424.92\nMax profit:\nunbounded ·\nMax loss:\n$1.89\nBreakeven:\n$3,003.15\nExpiry P&L:\nMove       Spot     P&L\n-10%  $2,182.43  -$1.89\n-5%  $2,303.67  -$1.89\nFlat  $2,424.92  -$1.89\n+5%  $2,546.17  -$1.89\n+10%  $2,667.41  -$1.89\nGreeks:\nΔ +0.0166 ETH · Γ +0.000146 ETH/$\nVega +$0.17/vol pt · Theta -$0.39/day\nID:\n4017716821672153088",
+    "url": "https://t.me/laevitas/590080",
+    "utc": "2026-10-17T14:56:14+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/590081",
+    "post_id": 590081,
+    "source": "public_html",
+    "text": "Opened LONG PUT\nDeribit · ETH · TRADE\n17 Oct 2026 15:00:27 UTC\n🟢\nBUY 200 ETH\n·\n2,200 Put · 24 Sep 27\n@ $323.592 · IV 53.91%\nBid $322.38 · Ask $324.804 · inside spread\nCost:\n$64,718.40 ·\nNotional:\n$484,782.00\nSpot:\n$2,423.91\nMax profit:\n$375.28K ·\nMax loss:\n$64.72K\nBreakeven:\n$1,876.41\nExpiry P&L:\nMove       Spot       P&L\n-10%  $2,181.52  -$61.02K\n-5%  $2,302.71  -$64.72K\nFlat  $2,423.91  -$64.72K\n+5%  $2,545.11  -$64.72K\n+10%   $2,666.3  -$64.72K\nGreeks:\nΔ -65.51 ETH · Γ +0.0571 ETH/$\nVega +$1.69K/vol pt · Theta -$133.60/day\nID:\nETH-313993873",
+    "url": "https://t.me/laevitas/590081",
+    "utc": "2026-10-17T15:00:37+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/590082",
+    "post_id": 590082,
+    "source": "public_html",
+    "text": "Opened LONG PUT\nDeribit · ETH · TRADE\n17 Oct 2026 15:19:50 UTC\n🟢\nBUY 222 ETH\n·\n2,200 Put · 24 Sep 27\n@ $322.607 · IV 53.52%\nBid $321.398 · Ask $326.232 · inside spread\nCost:\n$71,618.70 ·\nNotional:\n$536,469.66\nSpot:\n$2,416.53\nMax profit:\n$416.78K ·\nMax loss:\n$71.62K\nBreakeven:\n$1,877.39\nExpiry P&L:\nMove       Spot       P&L\n-10%  $2,174.88  -$66.04K\n-5%   $2,295.7  -$71.62K\nFlat  $2,416.53  -$71.62K\n+5%  $2,537.36  -$71.62K\n+10%  $2,658.18  -$71.62K\nGreeks:\nΔ -73.24 ETH · Γ +0.0642 ETH/$\nVega +$1.88K/vol pt · Theta -$147.20/day\nID:\nETH-313995005",
+    "url": "https://t.me/laevitas/590082",
+    "utc": "2026-10-17T15:19:52+00:00"
   }
 ]
