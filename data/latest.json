@@ -1,5 +1,5 @@
 {
-  "archive_45d_count": 91,
+  "archive_45d_count": 103,
   "baseline_only": false,
   "channels": {
     "greekslivenews2": {
@@ -24,8 +24,8 @@
       "state": "reachable_but_freshness_not_established"
     },
     "laevitas": {
-      "latest_url": "https://t.me/laevitas/590089",
-      "latest_utc": "2026-10-17T18:48:39+00:00",
+      "latest_url": "https://t.me/laevitas/590100",
+      "latest_utc": "2026-10-17T22:59:08+00:00",
       "methods": {
         "public_html": {
           "ok": true,
@@ -45,10 +45,77 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-10-17T21:24:44.507178+00:00",
+  "checked_at_utc": "2026-10-17T23:59:25.508725+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 0,
-  "new_posts": [],
+  "new_post_count": 6,
+  "new_posts": [
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590096",
+      "post_id": 590096,
+      "source": "public_html",
+      "text": "LONG RISK REVERSAL\nOKX · ETH · BLOCK TRADE\n17 Oct 2026 21:47:19 UTC\n🔴\nSELL 1 ETH\n·\n2,700 Put · 25 Dec 26\n@ $392.581 · IV 47.85%\nBid $388.528 · Ask $405.214 · inside spread\n🟢\nBUY 4 ETH\n·\n2,700 Call · 25 Dec 26\n@ $105.356 · IV 50.61%\nBid $102.495 · Ask $103.687 · above ask\nCost:\n$28.84 ·\nNotional:\n$11,918.05\nSpot:\n$2,383.61\nMax profit:\nunbounded ·\nMax loss:\n$2.73K\nExpiry breakeven:\n$2,707.21 (+13.6%)\nExpiry P&L:\nMove       Spot       P&L\n+20%  $2,860.33  +$612.49\n+15%  $2,741.15  +$135.76\n+13.6%  $2,707.21     $0.00\n+13.3%     $2,700   -$28.84\nFlat  $2,383.61  -$345.23\nGreeks:\nΔ +1.98 ETH · Γ +0.00204 ETH/$\nVega +$11.18/vol pt · Theta -$4.21/day\nID:\n4018855909844824064",
+      "url": "https://t.me/laevitas/590096",
+      "utc": "2026-10-17T22:02:26+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590097",
+      "post_id": 590097,
+      "source": "public_html",
+      "text": "SHORT PUT\nOKX · BTC · BLOCK TRADE\n17 Oct 2026 22:09:08 UTC\n🔴\nSELL 0.13 BTC\n·\n81,250 Put · 18 Oct 26\n@ $251.689 · IV 16.85%\nBid $219.213 · Ask $227.332 · above ask\nCredit:\n$32.72 ·\nNotional:\n$10,554.71\nSpot:\n$81,190.10\nMax profit:\n$32.72 ·\nMax loss:\n$10.53K\nExpiry breakeven:\n$80,998.31 (-0.2%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $85,249.61   +$32.72\n+0.1%     $81,250   +$32.72\nFlat   $81,190.1   +$24.93\n-0.2%  $80,998.31     $0.00\n-5%   $77,130.6  -$502.80\nGreeks:\nΔ +0.0716 BTC · Γ -0.000112 BTC/$\nVega -$1.40/vol pt · Theta +$28.75/day\nID:\n4018899825885425664",
+      "url": "https://t.me/laevitas/590097",
+      "utc": "2026-10-17T22:24:16+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590098",
+      "post_id": 590098,
+      "source": "public_html",
+      "text": "HEDGED OPTIONS STRATEGY\nDeribit · BTC · BLOCK TRADE · PARADIGM\n17 Oct 2026 22:58:54 UTC\nFull details below.",
+      "url": "https://t.me/laevitas/590098",
+      "utc": "2026-10-17T22:59:01+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": false,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590099",
+      "post_id": 590099,
+      "source": "public_html",
+      "text": "🟢\nBUY 39.3536 BTC\n·\nBTC-PERPETUAL\n@ $81,314\nBid $81,292.5 · Ask $81,293 · above ask\n🔴\nSELL 50 BTC\n·\n75,000 Call · 30 Oct 26\n@ $6,875.87 · IV 41.57%\nBid $6,745.83 · Ask $7,111.56 · inside spread\n🟢\nBUY 50 BTC\n·\n90,000 Call · 30 Oct 26\n@ $130.04 · IV 34.18%\nBid $113.785 · Ask $138.168 · inside spread\nCredit:\n$337,291.29 ·\nNotional:\n$11,327,501.00\nSpot:\n$81,275.42\nTrade insight\nSold 75,000 call at high vol (92nd pct) vs 30d comparable options.\nMax profit:\nunbounded ·\nMax loss:\n$2.86M\nExpiry breakeven:\n$72,743.22 (-10.5%), $83,342.04 (+2.5%), $91,801.19 (+13%)\nExpiry P&L:\nMove        Spot       P&L\n+15%  $93,466.73  +$65.55K\n+13%  $91,801.19     $0.00\n+10.7%     $90,000  -$70.88K\n+2.5%  $83,342.04     $0.00\nFlat  $81,275.42     +$22K\n-7.7%     $75,000  +$88.81K\n-10.5%  $72,743.22     $0.00\n-15%  $69,084.11    -$144K\nGreeks:\nΔ -0.93 BTC · Γ -0.00067 BTC/$\nVega -$806.44/vol pt · Theta +$1.61K/day\nID:\nBLOCK-303215",
+      "url": "https://t.me/laevitas/590099",
+      "utc": "2026-10-17T22:59:02+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590100",
+      "post_id": 590100,
+      "source": "public_html",
+      "text": "HEDGED OPTIONS STRATEGY\nDeribit · BTC · BLOCK TRADE · PARADIGM\n17 Oct 2026 22:59:01 UTC\nFull details below.",
+      "url": "https://t.me/laevitas/590100",
+      "utc": "2026-10-17T22:59:08+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": false,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590101",
+      "post_id": 590101,
+      "source": "public_html",
+      "text": "🟢\nBUY 39.3536 BTC\n·\nBTC-PERPETUAL\n@ $81,314\nBid $81,292.5 · Ask $81,293 · above ask\n🟢\nBUY 50 BTC\n·\n90,000 Call · 30 Oct 26\n@ $130.04 · IV 34.18%\nBid $113.785 · Ask $138.168 · inside spread\n🔴\nSELL 50 BTC\n·\n75,000 Call · 30 Oct 26\n@ $6,875.87 · IV 41.58%\nBid $6,705.19 · Ask $7,111.56 · inside spread\nCredit:\n$337,291.29 ·\nNotional:\n$11,327,501.00\nSpot:\n$81,275.01\nTrade insight\nSold 75,000 call at high vol (92nd pct) vs 30d comparable options.\nMax profit:\nunbounded ·\nMax loss:\n$2.86M\nExpiry breakeven:\n$72,743.22 (-10.5%), $83,342.04 (+2.5%), $91,801.19 (+13%)\nExpiry P&L:\nMove        Spot        P&L\n+15%  $93,466.26   +$65.53K\n+13%  $91,801.19      $0.00\n+10.7%     $90,000   -$70.88K\n+2.5%  $83,342.04      $0.00\nFlat  $81,275.01   +$22.01K\n-7.7%     $75,000   +$88.81K\n-10.5%  $72,743.22      $0.00\n-15%  $69,083.76  -$144.01K\nGreeks:\nΔ -0.93 BTC · Γ -0.00067 BTC/$\nVega -$807.10/vol pt · Theta +$1.61K/day\nID:\nBLOCK-303216",
+      "url": "https://t.me/laevitas/590101",
+      "utc": "2026-10-17T22:59:08+00:00"
+    }
+  ],
   "note": "No new posts is not a data outage. A green workflow does not prove a fresh source.",
   "source_freshness_confirmed": true
 }
