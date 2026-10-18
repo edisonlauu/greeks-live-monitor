@@ -109,7 +109,7 @@ def collect(folder):
         reachable=hs["ok"] or rs["ok"]
         freshness=bool(dt and -timedelta(minutes=5)<=now-dt<=timedelta(hours=24))
         snapshot[channel]={"state":"recent_post_verified" if freshness else "reachable_but_freshness_not_established" if reachable else "source_read_failed",
-                           "latest_utc":newest["utc"] if newest else None,"latest_url":newest["url"] if newest else None,
+                           "latest_utc":newest["utc"] if newest else None,"latest_url":newest.get("url") if newest else None,
                            "methods":{"public_html":hs,"rsshub":rs}}
     cutoff=now-timedelta(days=45)
     archive=sorted((p for p in saved.values() if parse_dt(p.get("utc")) and parse_dt(p["utc"])>=cutoff),
