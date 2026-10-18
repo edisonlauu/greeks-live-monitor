@@ -37,5 +37,17 @@ jobs:
           git add data/latest.json data/messages.json data/recent.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update public option-tape snapshots'
-            git push
+            # Refresh remote state before publishing; a recent repository update
+            # or scheduled job may otherwise reject our snapshot commit.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              echo "Push conflict: retrying after fresh fetch (attempt $attempt)"
+              sleep 2
+            done
+            echo "Could not publish snapshot after retries" >&2
+            exit 1
           fi
