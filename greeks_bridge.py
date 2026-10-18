@@ -96,11 +96,11 @@ def collect(folder):
         rss,rs=rss_collect(channel) if not newest or now-newest>timedelta(hours=24) else ([],{"ok":False,"skipped":"recent HTML available"})
         all_posts=posts+rss
         for p in all_posts:
-            if p["key"] not in saved and not first and (old_ids[channel] is None or p["post_id"]>old_ids[channel]):
-                # GitHub scheduled jobs can run hours late. Post IDs are the primary
-                # deduplication watermark; a 2-hour wall-clock filter can miss trades.
+            if p["key"] not in saved and not first:
+                # GitHub may miss or delay scheduled runs. Deduplicate by channel/post ID,
+                # not by elapsed wall clock or monotonic IDs (late-discovered gaps matter).
                 posted_at=parse_dt(p.get("utc"))
-                if posted_at and now-timedelta(days=7) <= posted_at <= now+timedelta(minutes=5):
+                if posted_at and now-timedelta(hours=48) <= posted_at <= now+timedelta(minutes=5):
                     new.append(p)
             if p["key"] not in saved or rank(p)>rank(saved[p["key"]]):saved[p["key"]]=p
         newest=max((p for p in saved.values() if p.get("channel")==channel and parse_dt(p.get("utc"))),
@@ -110,15 +110,24 @@ def collect(folder):
         freshness=bool(dt and -timedelta(minutes=5)<=now-dt<=timedelta(hours=24))
         snapshot[channel]={"state":"recent_post_verified" if freshness else "reachable_but_freshness_not_established" if reachable else "source_read_failed",
                            "latest_utc":newest["utc"] if newest else None,"latest_url":newest.get("url") if newest else None,
+                           "age_minutes":round((now-dt).total_seconds()/60,1) if dt else None,
                            "methods":{"public_html":hs,"rsshub":rs}}
     cutoff=now-timedelta(days=45)
     archive=sorted((p for p in saved.values() if parse_dt(p.get("utc")) and parse_dt(p["utc"])>=cutoff),
                   key=lambda p:(p["utc"],p["key"]))
     new.sort(key=lambda p:(p["utc"],p["key"]))
+    # Rolling inbox survives later empty collection runs: an hourly analyst can
+    # recover records even if its poll is out of phase with GitHub Actions.
+    recent=sorted((p for p in archive if parse_dt(p.get("utc")) and
+                   now-timedelta(hours=48) <= parse_dt(p["utc"]) <= now+timedelta(minutes=5)),
+                  key=lambda p:(p["utc"],p["key"]))
+    json_write(folder/"recent.json",recent)
     latest={"checked_at_utc":now.isoformat(),"baseline_only":first,"channels":snapshot,
+            "recent_48h_count":len(recent),
+            "recent_48h_path":"data/recent.json",
             "new_posts":new[-100:],"new_post_count":len(new),"archive_45d_count":len(archive),
             "data_source":"public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-            "note":"No new posts is not a data outage. A green workflow does not prove a fresh source.",
+            "note":"No new posts is not a data outage. Cross-check data/recent.json to recover trades missed by delayed analyst polls. A green workflow does not prove a fresh source.",
             "source_freshness_confirmed":any(v["state"]=="recent_post_verified" for v in snapshot.values())}
     json_write(history_path,archive);json_write(folder/"latest.json",latest)
     print(json.dumps({"new_post_count":len(new),"channels":{c:v["state"] for c,v in snapshot.items()}},ensure_ascii=False))
