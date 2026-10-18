@@ -96,9 +96,12 @@ def collect(folder):
         rss,rs=rss_collect(channel) if not newest or now-newest>timedelta(hours=24) else ([],{"ok":False,"skipped":"recent HTML available"})
         all_posts=posts+rss
         for p in all_posts:
-            if p["key"] not in saved and not first:
-                age=(now-parse_dt(p.get("utc"))).total_seconds()/3600 if parse_dt(p.get("utc")) else None
-                if age is not None and -0.1<=age<=2: new.append(p)
+            if p["key"] not in saved and not first and (old_ids[channel] is None or p["post_id"]>old_ids[channel]):
+                # GitHub scheduled jobs can run hours late. Post IDs are the primary
+                # deduplication watermark; a 2-hour wall-clock filter can miss trades.
+                posted_at=parse_dt(p.get("utc"))
+                if posted_at and now-timedelta(days=7) <= posted_at <= now+timedelta(minutes=5):
+                    new.append(p)
             if p["key"] not in saved or rank(p)>rank(saved[p["key"]]):saved[p["key"]]=p
         newest=max((p for p in saved.values() if p.get("channel")==channel and parse_dt(p.get("utc"))),
                     key=lambda p:parse_dt(p["utc"]),default=None)
