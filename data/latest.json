@@ -1,9 +1,9 @@
 {
-  "archive_45d_count": 116,
+  "archive_45d_count": 120,
   "baseline_only": false,
   "channels": {
     "greekslivenews2": {
-      "age_minutes": 1963.7,
+      "age_minutes": 2271.5,
       "latest_url": "https://t.me/greekslivenews2/21640",
       "latest_utc": "2026-10-16T17:19:17+00:00",
       "methods": {
@@ -25,9 +25,9 @@
       "state": "reachable_but_freshness_not_established"
     },
     "laevitas": {
-      "age_minutes": 5.5,
-      "latest_url": "https://t.me/laevitas/590114",
-      "latest_utc": "2026-10-18T01:57:33+00:00",
+      "age_minutes": 24.4,
+      "latest_url": "https://t.me/laevitas/590118",
+      "latest_utc": "2026-10-18T06:46:22+00:00",
       "methods": {
         "public_html": {
           "ok": true,
@@ -47,24 +47,57 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-10-18T02:03:01.733248+00:00",
+  "checked_at_utc": "2026-10-18T07:10:45.981163+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 1,
+  "new_post_count": 4,
   "new_posts": [
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/590114",
-      "post_id": 590114,
+      "key": "laevitas/590115",
+      "post_id": 590115,
       "source": "public_html",
-      "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n18 Oct 2026 01:42:25 UTC\n🔴\nSELL 0.07 BTC\n·\n81,600 Call · 18 Oct 26\n@ $204.016 · IV 14.65%\nBid $138.731 · Ask $146.891 · above ask\nCredit:\n$14.28 ·\nNotional:\n$5,712.44\nSpot:\n$81,606.30\nMax profit:\n$14.28 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$81,804.02 (+0.2%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $85,686.62  -$271.78\n+0.2%  $81,804.02     $0.00\nFlat   $81,606.3   +$13.84\n-0%     $81,600   +$14.28\n-5%  $77,525.99   +$14.28\nGreeks:\nΔ -0.0356 BTC · Γ -8.71e-05 BTC/$\nVega -$0.61/vol pt · Theta +$17.06/day\nID:\n4019329219066048512",
-      "url": "https://t.me/laevitas/590114",
-      "utc": "2026-10-18T01:57:33+00:00"
+      "text": "CUSTOM STRATEGY\nOKX · BTC · BLOCK TRADE\n18 Oct 2026 02:49:48 UTC\n🔴\nSELL 2 BTC\n·\n76,000 Put · 06 Nov 26\n@ $866.095 · IV 39.67%\nBid $817.071 · Ask $857.925 · above ask\n🟢\nBUY 1 BTC\n·\n78,000 Put · 27 Nov 26\n@ $2,222.43 · IV 37.96%\nBid $2,206.09 · Ask $2,246.95 · inside spread\n🟢\nBUY 1 BTC\n·\n80,000 Put · 13 Nov 26\n@ $2,336.82 · IV 37.11%\nBid $2,246.95 · Ask $2,287.8 · above ask\nCost:\n$2,827.07 ·\nNotional:\n$326,828.40\nSpot:\n$81,707.10\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot       P&L\nFlat   $81,707.1  -$470.04\n-2.1%     $80,000  +$792.05\n-4.5%     $78,000   +$2.82K\n-7%     $76,000   +$5.42K\n-10%  $73,536.39   +$4.33K\n-15%  $69,451.04    +$3.5K\nGreeks:\nΔ -0.33 BTC · Γ +7.41e-06 BTC/$\nVega +$77.96/vol pt · Theta +$2.15/day\nID:\n4019464884835561472",
+      "url": "https://t.me/laevitas/590115",
+      "utc": "2026-10-18T03:04:55+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590116",
+      "post_id": 590116,
+      "source": "public_html",
+      "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n18 Oct 2026 03:00:46 UTC\n🔴\nSELL 0.07 BTC\n·\n81,750 Call · 18 Oct 26\n@ $81.812 · IV 15.14%\nBid $147.262 · Ask $155.443 · below bid\nCredit:\n$5.73 ·\nNotional:\n$5,726.84\nSpot:\n$81,812.00\nMax profit:\n$5.73 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$81,831.81 (+0%)\nExpiry P&L:\nMove        Spot       P&L\n+5%   $85,902.6  -$284.96\n+0%  $81,831.81     $0.00\nFlat     $81,812    +$1.39\n-0.1%     $81,750    +$5.73\n-5%   $77,721.4    +$5.73\nGreeks:\nΔ -0.0409 BTC · Γ -9.24e-05 BTC/$\nVega -$0.53/vol pt · Theta +$19.42/day\nID:\n4019486979690835968",
+      "url": "https://t.me/laevitas/590116",
+      "utc": "2026-10-18T03:15:53+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590117",
+      "post_id": 590117,
+      "source": "public_html",
+      "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n18 Oct 2026 03:50:17 UTC\n🔴\nSELL 0.64 BTC\n·\n81,500 Call · 18 Oct 26\n@ $368.075 · IV 3.91%\nBid $286.281 · Ask $490.767 · inside spread\nCredit:\n$235.57 ·\nNotional:\n$52,348.48\nSpot:\n$81,794.50\nMax profit:\n$235.57 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$81,868.08 (+0.1%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $85,884.23   -$2.57K\n+0.1%  $81,868.08     $0.00\nFlat   $81,794.5   +$47.09\n-0.4%     $81,500  +$235.57\n-5%  $77,704.77  +$235.57\nGreeks:\nΔ -0.64 BTC · Γ -4.66e-07 BTC/$\nVega -$0.000578369/vol pt · Theta +$0.00651601/day\nID:\n4019586667124969472",
+      "url": "https://t.me/laevitas/590117",
+      "utc": "2026-10-18T04:05:25+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/590118",
+      "post_id": 590118,
+      "source": "public_html",
+      "text": "BULL DIAGONAL SPREAD (Puts)\nOKX · BTC · BLOCK TRADE\n18 Oct 2026 06:31:13 UTC\n🟢\nBUY 5 BTC\n·\n82,000 Put · 18 Oct 26\n@ $432.766 · IV 77.15%\nBid $228.631 · Ask $489.924 · inside spread\n🔴\nSELL 5 BTC\n·\n81,750 Put · 19 Oct 26\n@ $465.428 · IV 22.83%\nBid $449.097 · Ask $489.924 · inside spread\nCredit:\n$163.31 ·\nNotional:\n$816,540.00\nSpot:\n$81,654.00\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove       Spot       P&L\n+10%  $89,819.4  +$163.31\n+5%  $85,736.7  +$163.27\n+0.4%    $82,000   -$1.23K\n+0.1%    $81,750  -$535.14\nFlat    $81,654  -$303.40\nGreeks:\nΔ -0.63 BTC · Γ +0.000258 BTC/$\nVega -$68.09/vol pt · Theta -$11.2K/day\nID:\n4019910673753526272",
+      "url": "https://t.me/laevitas/590118",
+      "utc": "2026-10-18T06:46:22+00:00"
     }
   ],
   "note": "No new posts is not a data outage. Cross-check data/recent.json to recover trades missed by delayed analyst polls. A green workflow does not prove a fresh source.",
-  "recent_48h_count": 85,
+  "recent_48h_count": 87,
   "recent_48h_path": "data/recent.json",
   "source_freshness_confirmed": true
 }
