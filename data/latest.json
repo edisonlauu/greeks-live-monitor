@@ -3,7 +3,7 @@
   "baseline_only": false,
   "channels": {
     "greekslivenews2": {
-      "age_minutes": 1698.1,
+      "age_minutes": 1850.9,
       "latest_url": "https://t.me/greekslivenews2/21680",
       "latest_utc": "2026-10-24T15:14:28+00:00",
       "methods": {
@@ -25,7 +25,7 @@
       "state": "reachable_but_freshness_not_established"
     },
     "laevitas": {
-      "age_minutes": 84.1,
+      "age_minutes": 236.8,
       "latest_url": "https://t.me/laevitas/591306",
       "latest_utc": "2026-10-25T18:08:33+00:00",
       "methods": {
@@ -47,35 +47,12 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-10-25T19:32:36.050489+00:00",
+  "checked_at_utc": "2026-10-25T22:05:20.693831+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 2,
-  "new_posts": [
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/591305",
-      "post_id": 591305,
-      "source": "public_html",
-      "text": "BULL CALL SPREAD\nOKX · ETH · BLOCK TRADE\n25 Oct 2026 17:49:36 UTC\n🟢\nBUY 1 ETH\n·\n2,350 Call · 26 Oct 26\n@ $20.0122 · IV 47.36%\nBid $18.835 · Ask $21.1894 · inside spread\n∆OI: 271.7 → 271.7\n🔴\nSELL 1 ETH\n·\n2,375 Call · 26 Oct 26\n@ $8.71121 · IV 46.14%\nBid $8.94664 · Ask $9.18208 · below bid\n∆OI: 202.5 → 202.5\nCost:\n$11.30 ·\nNotional:\n$4,708.76\nSpot:\n$2,354.38\nMax profit:\n$13.70 ·\nMax loss:\n$11.30\nExpiry breakeven:\n$2,361.30 (+0.3%)\nExpiry P&L:\nMove       Spot      P&L\n+5%   $2,472.1  +$13.70\n+0.9%     $2,375  +$13.70\n+0.3%   $2,361.3    $0.00\nFlat  $2,354.38   -$6.92\n-0.2%     $2,350  -$11.30\n-5%  $2,236.66  -$11.30\nGreeks:\nΔ +0.22 ETH · Γ +0.000632 ETH/$\nVega +$0.04/vol pt · Theta -$1.79/day\nID:\n4041570153125728256",
-      "url": "https://t.me/laevitas/591305",
-      "utc": "2026-10-25T18:04:44+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/591306",
-      "post_id": 591306,
-      "source": "public_html",
-      "text": "CUSTOM STRATEGY\nOKX · ETH · BLOCK TRADE\n25 Oct 2026 17:53:27 UTC\n🔴\nSELL 1 ETH\n·\n2,425 Call · 28 Oct 26\n@ $12.9427 · IV 48.10%\nBid $12.9427 · Ask $14.1193 · at bid\n∆OI: 31.1 → 31.1\n🔴\nSELL 1 ETH\n·\n2,400 Call · 29 Oct 26\n@ $27.062 · IV 48.34%\nBid $27.062 · Ask $28.2386 · at bid\n∆OI: 63 → 63\nCredit:\n$40.00 ·\nNotional:\n$4,706.44\nSpot:\n$2,353.22\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove       Spot       P&L\n+10%  $2,588.54  -$312.10\n+5%  $2,470.88   -$80.58\n+3.1%     $2,425    +$1.14\n+2%     $2,400   +$15.78\nFlat  $2,353.22   +$32.49\nGreeks:\nΔ -0.58 ETH · Γ -0.00651 ETH/$\nVega -$1.47/vol pt · Theta +$11.48/day\nID:\n4041577894737174528",
-      "url": "https://t.me/laevitas/591306",
-      "utc": "2026-10-25T18:08:33+00:00"
-    }
-  ],
+  "new_post_count": 0,
+  "new_posts": [],
   "note": "No new posts is not a data outage. Cross-check data/recent.json to recover trades missed by delayed analyst polls. A green workflow does not prove a fresh source.",
-  "recent_48h_count": 161,
+  "recent_48h_count": 155,
   "recent_48h_path": "data/recent.json",
   "source_freshness_confirmed": true
 }
