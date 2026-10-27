@@ -17378,5 +17378,71 @@
     "text": "Opened LONG PUT\nDeribit · BTC · BLOCK TRADE · PARADIGM\n27 Oct 2026 18:10:49 UTC\n🟢\nBUY 63 BTC\n·\n62,000 Put · 25 Jun 27\n@ $2,654.54 · IV 43.05%\nBid $2,574.1 · Ask $2,654.54 · at ask\n∆OI: 115.8 → 178.8 (+54.4%)\nCost:\n$167,236.11 ·\nNotional:\n$5,067,760.95\nSpot:\n$80,440.65\nMax profit:\n$3.74M ·\nMax loss:\n$167.24K\nExpiry breakeven:\n$59,345.46 (-26.2%)\nExpiry P&L:\nMove        Spot        P&L\nFlat  $80,440.65  -$167.24K\n-22.9%     $62,000  -$167.24K\n-26.2%  $59,345.46      $0.00\n-30%  $56,308.45  +$191.33K\n-35%  $52,286.42  +$444.72K\nGreeks:\nΔ -11.27 BTC · Γ +0.000586 BTC/$\nVega +$10.75K/vol pt · Theta -$962.05/day\nID:\nBLOCK-303865",
     "url": "https://t.me/laevitas/591529",
     "utc": "2026-10-27T18:10:56+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591530",
+    "post_id": 591530,
+    "source": "public_html",
+    "text": "SHORT CALL\nOKX · ETH · BLOCK TRADE\n27 Oct 2026 16:52:51 UTC\n🔴\nSELL 5 ETH\n·\n2,350 Call · 28 Oct 26\n@ $8.42076 · IV 32.72%\nBid $6.78339 · Ask $7.0173 · above ask\n∆OI: 2,575.4 → 2,575.4\nCredit:\n$42.10 ·\nNotional:\n$11,695.50\nSpot:\n$2,339.10\nMax profit:\n$42.10 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$2,358.42 (+0.8%)\nExpiry P&L:\nMove       Spot       P&L\n+10%  $2,573.01   -$1.07K\n+5%  $2,456.05  -$488.17\n+0.8%  $2,358.42     $0.00\n+0.5%     $2,350   +$42.10\nFlat   $2,339.1   +$42.10\nGreeks:\nΔ -1.84 ETH · Γ -0.0593 ETH/$\nVega -$1.83/vol pt · Theta +$47.58/day\nID:\n4047254092710907904",
+    "url": "https://t.me/laevitas/591530",
+    "utc": "2026-10-27T19:30:58+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591531",
+    "post_id": 591531,
+    "source": "public_html",
+    "text": "BULL PUT SPREAD\nOKX · BTC · BLOCK TRADE\n27 Oct 2026 20:18:52 UTC\n🔴\nSELL 2 BTC\n·\n78,000 Put · 30 Oct 26\n@ $145.015 · IV 34.91%\nBid $145.015 · Ask $153.071 · at bid\n∆OI: 281.93 → 281.93\n🟢\nBUY 2 BTC\n·\n76,000 Put · 30 Oct 26\n@ $48.3382 · IV 41.99%\nBid $40.2818 · Ask $48.3382 · at ask\n∆OI: 331.83 → 331.83\nCredit:\n$193.35 ·\nNotional:\n$322,254.80\nSpot:\n$80,563.70\nMax profit:\n$193.35 ·\nMax loss:\n$3.81K\nExpiry breakeven:\n$77,903.32 (-3.3%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $80,563.7  +$193.35\n-3.2%     $78,000  +$193.35\n-3.3%  $77,903.32     $0.00\n-5.7%     $76,000   -$3.81K\n-10%  $72,507.33   -$3.81K\n-15%  $68,479.14   -$3.81K\nGreeks:\nΔ +0.17 BTC · Γ -0.000113 BTC/$\nVega -$15.30/vol pt · Theta +$89.57/day\nID:\n4047668869146435584",
+    "url": "https://t.me/laevitas/591531",
+    "utc": "2026-10-27T20:34:00+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591532",
+    "post_id": 591532,
+    "source": "public_html",
+    "text": "Opened CALL SPREAD\nDeribit · BTC · COMBO TRADE\n27 Oct 2026 20:59:27 UTC\n🟢\nBUY 10 BTC\n·\n95,000 Call · 25 Dec 26\n@ $935.933 · IV 36.32%\nBid $887.523 · Ask $968.207 · inside spread\n∆OI: 2,316.3 → 2,326.3 (+0.4%)\n🔴\nSELL 10 BTC\n·\n100,000 Call · 25 Dec 26\n@ $500.24 · IV 37.05%\nBid $484.103 · Ask $524.445 · inside spread\n∆OI: 6,063.9 → 6,078.9 (+0.2%)\nCost:\n$4,356.93 ·\nNotional:\n$1,613,677.60\nSpot:\n$80,683.88\nMax profit:\n$45.64K ·\nMax loss:\n$4.36K\nExpiry breakeven:\n$95,435.69 (+18.3%)\nExpiry P&L:\nMove         Spot       P&L\n+30%  $104,889.04  +$45.64K\n+25%  $100,854.85  +$45.64K\n+23.9%     $100,000  +$45.64K\n+18.3%   $95,435.69     $0.00\n+17.7%      $95,000   -$4.36K\nFlat   $80,683.88   -$4.36K\nGreeks:\nΔ +0.62 BTC · Γ +6.59e-05 BTC/$\nVega +$239.82/vol pt · Theta -$71.37/day\nID:\n456945639",
+    "url": "https://t.me/laevitas/591532",
+    "utc": "2026-10-27T20:59:34+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591533",
+    "post_id": 591533,
+    "source": "public_html",
+    "text": "BULL PUT SPREAD\nOKX · BTC · BLOCK TRADE\n27 Oct 2026 20:18:52 UTC\n🔴\nSELL 2 BTC\n·\n78,000 Put · 30 Oct 26\n@ $145.196 · IV 36.13%\nBid $145.196 · Ask $153.262 · at bid\n∆OI: 282.25 → 282.25\n🟢\nBUY 2 BTC\n·\n76,000 Put · 30 Oct 26\n@ $48.3985 · IV 42.97%\nBid $40.3321 · Ask $48.3985 · at ask\n∆OI: 332.13 → 332.13\nCredit:\n$193.59 ·\nNotional:\n$322,656.80\nSpot:\n$80,664.20\nMax profit:\n$193.59 ·\nMax loss:\n$3.81K\nExpiry breakeven:\n$77,903.20 (-3.4%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $80,664.2  +$193.59\n-3.3%     $78,000  +$193.59\n-3.4%   $77,903.2     $0.00\n-5.8%     $76,000   -$3.81K\n-10%  $72,597.78   -$3.81K\n-15%  $68,564.57   -$3.81K\nGreeks:\nΔ +0.16 BTC · Γ -0.000107 BTC/$\nVega -$15.12/vol pt · Theta +$92.55/day\nID:\n4047668869146435584",
+    "url": "https://t.me/laevitas/591533",
+    "utc": "2026-10-27T21:07:20+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591534",
+    "post_id": 591534,
+    "source": "public_html",
+    "text": "BULL PUT SPREAD\nDeribit · BTC · BLOCK TRADE\n27 Oct 2026 21:16:37 UTC\n🔴\nSELL 12.5 BTC\n·\n79,500 Put · 28 Oct 26\n@ $24.1879 · IV 27.59%\nBid $8.06264 · Ask $24.1879 · at ask\n∆OI: 379.2 → 379.2\n🟢\nBUY 12.5 BTC\n·\n79,000 Put · 28 Oct 26\n@ $8.06264 · IV 30.02%\nBid $8.06264 · Ask $16.1253 · at bid\n∆OI: 152.2 → 177.1 (+8.2%)\nCredit:\n$201.57 ·\nNotional:\n$2,015,660.00\nSpot:\n$80,626.40\nMax profit:\n$201.57 ·\nMax loss:\n$6.05K\nExpiry breakeven:\n$79,483.87 (-1.4%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $80,626.4  +$201.57\n-1.4%     $79,500  +$201.57\n-1.4%  $79,483.87     $0.00\n-2%     $79,000   -$6.05K\n-5%  $76,595.08   -$6.05K\n-10%  $72,563.76   -$6.05K\nGreeks:\nΔ +0.57 BTC · Γ -0.00131 BTC/$\nVega -$27.09/vol pt · Theta +$778.77/day\nID:\nBLOCK-303866",
+    "url": "https://t.me/laevitas/591534",
+    "utc": "2026-10-27T21:16:43+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/591535",
+    "post_id": 591535,
+    "source": "public_html",
+    "text": "BULL PUT SPREAD\nDeribit · BTC · BLOCK TRADE\n27 Oct 2026 21:16:40 UTC\n🟢\nBUY 12.5 BTC\n·\n79,000 Put · 28 Oct 26\n@ $8.06237 · IV 29.94%\nBid $8.06237 · Ask $16.1247 · at bid\n∆OI: 164.6 → 177.1 (+7.6%)\n🔴\nSELL 12.5 BTC\n·\n79,500 Put · 28 Oct 26\n@ $24.1871 · IV 27.50%\nBid $8.06237 · Ask $24.1871 · at ask\n∆OI: 379.2 → 379.2\nCredit:\n$201.56 ·\nNotional:\n$2,015,593.26\nSpot:\n$80,623.73\nMax profit:\n$201.56 ·\nMax loss:\n$6.05K\nExpiry breakeven:\n$79,483.88 (-1.4%)\nExpiry P&L:\nMove        Spot       P&L\nFlat  $80,623.73  +$201.56\n-1.4%     $79,500  +$201.56\n-1.4%  $79,483.88     $0.00\n-2%     $79,000   -$6.05K\n-5%  $76,592.54   -$6.05K\n-10%  $72,561.36   -$6.05K\nGreeks:\nΔ +0.57 BTC · Γ -0.00132 BTC/$\nVega -$27.08/vol pt · Theta +$775.71/day\nID:\nBLOCK-303867",
+    "url": "https://t.me/laevitas/591535",
+    "utc": "2026-10-27T21:16:51+00:00"
   }
 ]
