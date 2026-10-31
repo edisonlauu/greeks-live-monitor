@@ -28433,5 +28433,38 @@
     "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n31 Oct 2026 17:18:22 UTC\n🔴\nSELL 0.1 BTC\n·\n79,000 Call · 27 Nov 26\n@ $2,559.48 · IV 37.08%\nBid $2,559.48 · Ask $2,598.26 · at bid\n∆OI: 16.74 → 16.74\nCredit:\n$255.95 ·\nNotional:\n$7,756.00\nSpot:\n$77,560.00\nMax profit:\n$255.95 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$81,559.48 (+5.2%)\nExpiry P&L:\nMove        Spot       P&L\n+15%     $89,194  -$763.45\n+10%     $85,316  -$375.65\n+5.2%  $81,559.48     $0.00\n+1.9%     $79,000  +$255.95\nFlat     $77,560  +$255.95\nGreeks:\nΔ -0.0447 BTC · Γ -5.09e-06 BTC/$\nVega -$8.28/vol pt · Theta +$5.77/day\nID:\n4058901883058741248",
     "url": "https://t.me/laevitas/592488",
     "utc": "2026-10-31T18:02:04+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/592489",
+    "post_id": 592489,
+    "source": "public_html",
+    "text": "SHORT CALL\nOKX · ETH · BLOCK TRADE\n31 Oct 2026 21:12:38 UTC\n🔴\nSELL 12.8 ETH\n·\n2,270 Call · 01 Nov 26\n@ $2.02555 · IV 27.83%\nBid $2.25061 · Ask $2.47567 · below bid\n∆OI: 2,337.9 → 2,337.9\nCredit:\n$25.93 ·\nNotional:\n$28,807.81\nSpot:\n$2,250.61\nMax profit:\n$25.93 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$2,272.03 (+1%)\nExpiry P&L:\nMove       Spot      P&L\n+10%  $2,475.67  -$2.61K\n+5%  $2,363.14  -$1.17K\n+1%  $2,272.03    $0.00\n+0.9%     $2,270  +$25.93\nFlat  $2,250.61  +$25.93\nGreeks:\nΔ -2.45 ETH · Γ -0.16 ETH/$\nVega -$2.75/vol pt · Theta +$85.27/day\nID:\n4059373524656558080",
+    "url": "https://t.me/laevitas/592489",
+    "utc": "2026-10-31T21:27:45+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/592490",
+    "post_id": 592490,
+    "source": "public_html",
+    "text": "CUSTOM STRATEGY\nDeribit · BTC · BLOCK TRADE\n31 Oct 2026 23:30:57 UTC\n🔴\nSELL 20 BTC\n·\n71,000 Put · 27 Nov 26\n@ $1,037.23 · IV 42.58%\nBid $1,006.27 · Ask $1,083.67 · inside spread\n∆OI: 385.6 → 398.7 (+3.4%)\n🟢\nBUY 20 BTC\n·\n75,000 Put · 27 Nov 26\n@ $2,074.44 · IV 39.82%\nBid $2,051.22 · Ask $2,089.92 · inside spread\n∆OI: 2,420.6 → 2,440.6 (+0.8%)\n🔴\nSELL 20 BTC\n·\n83,000 Call · 27 Nov 26\n@ $1,161.08 · IV 36.31%\nBid $1,161.08 · Ask $1,199.78 · at bid\n∆OI: 515.3 → 535.3 (+3.9%)\nCredit:\n$2,477.23 ·\nNotional:\n$4,644,295.40\nSpot:\n$77,405.09\nMax profit:\n$82.48K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$83,123.86 (+7.4%)\nExpiry P&L:\nMove        Spot       P&L\n+10%   $85,145.6  -$40.43K\n+7.4%  $83,123.86     $0.00\n+7.2%     $83,000   +$2.48K\nFlat  $77,405.09   +$2.48K\n-3.1%     $75,000   +$2.48K\n-8.3%     $71,000  +$82.48K\n-10%  $69,664.58  +$82.48K\nGreeks:\nΔ -8.16 BTC · Γ -0.000587 BTC/$\nVega -$960.58/vol pt · Theta +$699.70/day\nID:\nBLOCK-304439",
+    "url": "https://t.me/laevitas/592490",
+    "utc": "2026-10-31T23:31:04+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/592491",
+    "post_id": 592491,
+    "source": "public_html",
+    "text": "CUSTOM STRATEGY\nDeribit · BTC · BLOCK TRADE\n31 Oct 2026 23:32:15 UTC\n🔴\nSELL 9 BTC\n·\n71,000 Put · 27 Nov 26\n@ $1,037.11 · IV 42.54%\nBid $1,006.15 · Ask $1,083.55 · inside spread\n∆OI: 398.7 → 407.7 (+2.3%)\n🟢\nBUY 9 BTC\n·\n75,000 Put · 27 Nov 26\n@ $2,081.96 · IV 39.86%\nBid $2,051 · Ask $2,089.7 · inside spread\n∆OI: 2,440.6 → 2,449.6 (+0.4%)\n🔴\nSELL 9 BTC\n·\n83,000 Call · 27 Nov 26\n@ $1,160.95 · IV 36.35%\nBid $1,160.95 · Ask $1,199.64 · at bid\n∆OI: 535.3 → 544.3 (+1.7%)\nCredit:\n$1,044.85 ·\nNotional:\n$2,089,702.53\nSpot:\n$77,396.39\nMax profit:\n$37.04K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$83,116.09 (+7.4%)\nExpiry P&L:\nMove        Spot       P&L\n+10%  $85,136.03  -$18.18K\n+7.4%  $83,116.09     $0.00\n+7.2%     $83,000   +$1.04K\nFlat  $77,396.39   +$1.04K\n-3.1%     $75,000   +$1.04K\n-8.3%     $71,000  +$37.04K\n-10%  $69,656.75  +$37.04K\nGreeks:\nΔ -3.67 BTC · Γ -0.000264 BTC/$\nVega -$431.90/vol pt · Theta +$314.13/day\nID:\nBLOCK-304440",
+    "url": "https://t.me/laevitas/592491",
+    "utc": "2026-10-31T23:32:22+00:00"
   }
 ]
