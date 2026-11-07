@@ -45648,5 +45648,38 @@
     "text": "BULL PUT SPREAD\nDeribit · ETH · BLOCK TRADE\n07 Nov 2026 13:21:48 UTC\n🔴\nSELL 250 ETH\n·\n2,300 Put · 27 Nov 26\n@ $138.103 · IV 51.39%\nBid $137.655 · Ask $139.894 · inside spread\n∆OI: 4,852 → 4,852\n🟢\nBUY 250 ETH\n·\n2,200 Put · 27 Nov 26\n@ $88.189 · IV 52.93%\nBid $86.1746 · Ask $89.532 · inside spread\n∆OI: 9,237 → 9,192 (-0.5%)\nCredit:\n$12,478.52 ·\nNotional:\n$1,119,150.00\nSpot:\n$2,238.30\nMax profit:\n$12.48K ·\nMax loss:\n$12.52K\nExpiry breakeven:\n$2,250.09 (+0.5%)\nExpiry P&L:\nMove       Spot       P&L\n+5%  $2,350.22  +$12.48K\n+2.8%     $2,300  +$12.48K\n+0.5%  $2,250.09     $0.00\nFlat   $2,238.3   -$2.95K\n-1.7%     $2,200  -$12.52K\n-5%  $2,126.39  -$12.52K\nGreeks:\nΔ +36.61 ETH · Γ -0.0129 ETH/$\nVega -$3.22/vol pt · Theta -$15.64/day\nID:\nBLOCK-305336",
     "url": "https://t.me/laevitas/593979",
     "utc": "2026-11-07T13:21:56+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593980",
+    "post_id": 593980,
+    "source": "public_html",
+    "text": "REVERSE CALL CALENDAR\nDeribit · ETH · BLOCK TRADE\n07 Nov 2026 15:54:03 UTC\n🟢\nBUY 125 ETH\n·\n2,260 Call · 09 Nov 26\n@ $13.387 · IV 41.67%\nBid $9.8171 · Ask $10.2633 · above ask\n∆OI: 1,310 → 1,247 (-4.8%)\n🔴\nSELL 125 ETH\n·\n2,260 Call · 11 Nov 26\n@ $34.8061 · IV 53.07%\nBid $30.1207 · Ask $32.3518 · above ask\nOI: 125\nCredit:\n$2,677.39 ·\nNotional:\n$557,790.00\nSpot:\n$2,231.16\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove       Spot       P&L\n+10%  $2,454.28    +$2.6K\n+5%  $2,342.72   +$1.57K\n+1.3%     $2,260   -$1.75K\nFlat  $2,231.16  -$151.93\nGreeks:\nΔ -10.69 ETH · Γ +0.31 ETH/$\nVega -$40.75/vol pt · Theta -$63.37/day\nID:\nBLOCK-305337",
+    "url": "https://t.me/laevitas/593980",
+    "utc": "2026-11-07T15:54:11+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593981",
+    "post_id": 593981,
+    "source": "public_html",
+    "text": "📦\nBLOCK FLOW — last 8h (08:00–16:00 UTC)\n────────────────────────\n💰\n$15M notional | 96 blocks | $338K premium\nvs prior 8h: -11% · vs 7d avg: -96%\n────────────────────────\n🏛\nBy venue\nDeribit   $13M  84%\nDerive   $1.9M  12%\nBybit    $304K   2%\nOKX      $156K   1%\nParadex   $94K   1%\n────────────────────────\n🤝\nBy provider\nVenue-native  $15M  99%\nParadigm      $94K   1%  (Paradex $94K)\n────────────────────────\n🪙\nBy currency\nBTC $12M 78% · ETH $2.8M 18% · HYPE $528K 3% · SOL $38K <1% · other $3.5K\n────────────────────────\n🧩\nTop structures: Put roll back/up $3.8M · Call spread $3.2M · Diagonal spread (puts) $1.9M\n🐋\nLargest: BTC 27NOV26/25DEC26 70k/74k put roll back/up — $3.8M (Venue-native · Deribit)\n🧭\nView: Bullish 87% · Bearish 12% · Short vol 1% · Long vol <1% · (rolls/other $6.7M)\n────────────────────────\n📊\nOptions Flows →\nhttps://v3.laevitas.ch/crypto/options-flows?window=24h\n#blockflow",
+    "url": "https://t.me/laevitas/593981",
+    "utc": "2026-11-07T16:03:13+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593982",
+    "post_id": 593982,
+    "source": "public_html",
+    "text": "SHORT PUT\nDeribit · TRX · TRADE\n07 Nov 2026 16:06:17 UTC\n🔴\nSELL 100,000 TRX\n·\n0.5 Put · 13 Nov 26\n@ $0.1801 · IV 103.52%\nBid $0.1762 · Ask $0.1839 · inside spread\n∆OI: 100,000 → 100,000\nCredit:\n$18,010.00 ·\nNotional:\n$31,959.40\nSpot:\n$0.32\nMax profit:\n$18.01K ·\nMax loss:\n$31.99K\nExpiry breakeven:\n$0.32 (+0.1%)\nExpiry P&L:\nMove       Spot       P&L\n+70%   $0.54331  +$18.01K\n+60%   $0.51135  +$18.01K\n+56.4%       $0.5  +$18.01K\n+0.1%    $0.3199     $0.00\nFlat  $0.319594   -$30.60\nGreeks:\nΔ +99967.12 TRX · Γ -2923.03 TRX/$\nVega -$0.05/vol pt · Theta +$0.44/day\nID:\nUSDC-113145805",
+    "url": "https://t.me/laevitas/593982",
+    "utc": "2026-11-07T16:06:21+00:00"
   }
 ]
