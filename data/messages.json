@@ -45681,5 +45681,38 @@
     "text": "SHORT PUT\nDeribit · TRX · TRADE\n07 Nov 2026 16:06:17 UTC\n🔴\nSELL 100,000 TRX\n·\n0.5 Put · 13 Nov 26\n@ $0.1801 · IV 103.52%\nBid $0.1762 · Ask $0.1839 · inside spread\n∆OI: 100,000 → 100,000\nCredit:\n$18,010.00 ·\nNotional:\n$31,959.40\nSpot:\n$0.32\nMax profit:\n$18.01K ·\nMax loss:\n$31.99K\nExpiry breakeven:\n$0.32 (+0.1%)\nExpiry P&L:\nMove       Spot       P&L\n+70%   $0.54331  +$18.01K\n+60%   $0.51135  +$18.01K\n+56.4%       $0.5  +$18.01K\n+0.1%    $0.3199     $0.00\nFlat  $0.319594   -$30.60\nGreeks:\nΔ +99967.12 TRX · Γ -2923.03 TRX/$\nVega -$0.05/vol pt · Theta +$0.44/day\nID:\nUSDC-113145805",
     "url": "https://t.me/laevitas/593982",
     "utc": "2026-11-07T16:06:21+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593983",
+    "post_id": 593983,
+    "source": "public_html",
+    "text": "SHORT PUT\nOKX · BTC · BLOCK TRADE\n07 Nov 2026 18:40:37 UTC\n🔴\nSELL 0.15 BTC\n·\n75,000 Put · 08 Nov 26\n@ $30.2879 · IV 21.97%\nBid $37.8599 · Ask $45.4319 · below bid\n∆OI: 102.38 → 102.38\nCredit:\n$4.54 ·\nNotional:\n$11,357.97\nSpot:\n$75,719.80\nMax profit:\n$4.54 ·\nMax loss:\n$11.25K\nExpiry breakeven:\n$74,969.71 (-1%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $75,719.8    +$4.54\n-1%     $75,000    +$4.54\n-1%  $74,969.71     $0.00\n-5%  $71,933.81  -$455.39\n-10%  $68,147.82   -$1.02K\nGreeks:\nΔ +0.0197 BTC · Γ -4.93e-05 BTC/$\nVega -$0.94/vol pt · Theta +$18.70/day\nID:\n4079361211934797824",
+    "url": "https://t.me/laevitas/593983",
+    "utc": "2026-11-07T18:55:45+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593984",
+    "post_id": 593984,
+    "source": "public_html",
+    "text": "SHORT CALL LADDER\nOKX · BTC · BLOCK TRADE\n07 Nov 2026 21:57:26 UTC\n🔴\nSELL 0.01 BTC\n·\n70,000 Call · 27 Nov 26\n@ $6,648.6 · IV 40.83%\nBid $6,618.34 · Ask $6,807.44 · inside spread\n∆OI: 38.14 → 38.14\n🟢\nBUY 0.01 BTC\n·\n72,000 Call · 27 Nov 26\n@ $5,105.58 · IV 41.69%\nBid $5,029.94 · Ask $5,143.4 · inside spread\n∆OI: 12.94 → 12.94\n🟢\nBUY 0.01 BTC\n·\n74,000 Call · 27 Nov 26\n@ $3,706.27 · IV 39.80%\nBid $3,668.45 · Ask $3,744.09 · inside spread\n∆OI: 31.77 → 31.77\nCost:\n$21.63 ·\nNotional:\n$2,269.14\nSpot:\n$75,638.20\nMax profit:\nunbounded ·\nMax loss:\n$41.63\nExpiry breakeven:\n$78,163.25 (+3.3%)\nExpiry P&L:\nMove        Spot      P&L\n+5%  $79,420.11  +$12.57\n+3.3%  $78,163.25    $0.00\nFlat   $75,638.2  -$25.25\n-2.2%     $74,000  -$41.63\n-4.8%     $72,000  -$41.63\n-7.5%     $70,000  -$21.63\n-10%  $68,074.38  -$21.63\nGreeks:\nΔ +0.00517 BTC · Γ +6.37e-07 BTC/$\nVega +$0.79/vol pt · Theta -$0.82/day\nID:\n4079757441626099712",
+    "url": "https://t.me/laevitas/593984",
+    "utc": "2026-11-07T22:12:34+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593985",
+    "post_id": 593985,
+    "source": "public_html",
+    "text": "SHORT CALL LADDER\nOKX · BTC · BLOCK TRADE\n07 Nov 2026 21:58:41 UTC\n🔴\nSELL 0.01 BTC\n·\n70,000 Call · 25 Dec 26\n@ $7,979.31 · IV 40.16%\nBid $7,979.31 · Ask $8,092.76 · at bid\n∆OI: 158.4 → 158.4\n🟢\nBUY 0.01 BTC\n·\n72,000 Call · 25 Dec 26\n@ $6,648.17 · IV 40.47%\nBid $6,580.1 · Ask $6,693.55 · inside spread\n∆OI: 43.84 → 43.84\n🟢\nBUY 0.01 BTC\n·\n75,000 Call · 25 Dec 26\n@ $4,817.84 · IV 39.00%\nBid $4,764.9 · Ask $4,840.53 · inside spread\n∆OI: 92.86 → 92.86\nCost:\n$34.87 ·\nNotional:\n$2,268.99\nSpot:\n$75,633.30\nMax profit:\nunbounded ·\nMax loss:\n$54.87\nExpiry breakeven:\n$80,486.70 (+6.4%)\nExpiry P&L:\nMove        Spot      P&L\n+10%  $83,196.63  +$27.10\n+6.4%   $80,486.7    $0.00\nFlat   $75,633.3  -$48.53\n-0.8%     $75,000  -$54.87\n-4.8%     $72,000  -$54.87\n-7.4%     $70,000  -$34.87\n-10%  $68,069.97  -$34.87\nGreeks:\nΔ +0.00483 BTC · Γ +4.01e-07 BTC/$\nVega +$1.17/vol pt · Theta -$0.49/day\nID:\n4079759947437535232",
+    "url": "https://t.me/laevitas/593985",
+    "utc": "2026-11-07T22:13:47+00:00"
   }
 ]
