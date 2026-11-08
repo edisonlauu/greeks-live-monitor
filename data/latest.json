@@ -1,9 +1,9 @@
 {
-  "archive_45d_count": 4181,
+  "archive_45d_count": 4203,
   "baseline_only": false,
   "channels": {
     "greekslivenews2": {
-      "age_minutes": 2185.7,
+      "age_minutes": 2609.1,
       "latest_url": "https://t.me/greekslivenews2/21809",
       "latest_utc": "2026-11-06T19:34:16+00:00",
       "methods": {
@@ -25,13 +25,17 @@
       "state": "reachable_but_freshness_not_established"
     },
     "laevitas": {
-      "age_minutes": 42.6,
-      "latest_url": "https://t.me/laevitas/594010",
-      "latest_utc": "2026-11-08T07:17:20+00:00",
+      "age_minutes": 14.1,
+      "latest_url": "https://t.me/laevitas/594032",
+      "latest_utc": "2026-11-08T14:49:14+00:00",
       "methods": {
         "public_html": {
           "ok": true,
           "pages": [
+            {
+              "count": 20,
+              "ok": true
+            },
             {
               "count": 20,
               "ok": true
@@ -47,200 +51,255 @@
       "state": "recent_post_verified"
     }
   },
-  "checked_at_utc": "2026-11-08T07:59:56.332727+00:00",
+  "checked_at_utc": "2026-11-08T15:03:20.368596+00:00",
   "data_source": "public Telegram pages and RSSHub; NOT official Greeks.live Data Lab",
-  "new_post_count": 17,
+  "new_post_count": 22,
   "new_posts": [
     {
       "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593994",
-      "post_id": 593994,
-      "source": "public_html",
-      "text": "SHORT RISK REVERSAL\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 02:33:25 UTC\n🔴\nSELL 50 ETH\n·\n2,400 Call · 20 Nov 26\n@ $27.3917 · IV 52.00%\nBid $27.8371 · Ask $28.9506 · below bid\n∆OI: 1,343 → 1,343\n🟢\nBUY 50 ETH\n·\n2,100 Put · 20 Nov 26\n@ $39.4174 · IV 57.62%\nBid $38.972 · Ask $40.0855 · inside spread\n∆OI: 513.2 → 513.2\nCost:\n$601.28 ·\nNotional:\n$222,697.00\nSpot:\n$2,226.97\nMax profit:\n$104.4K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$2,087.97 (-6.2%)\nExpiry P&L:\nMove       Spot       P&L\n+10%  $2,449.67   -$3.08K\n+7.8%     $2,400  -$601.28\nFlat  $2,226.97  -$601.28\n-5.7%     $2,100  -$601.28\n-6.2%  $2,087.97     $0.00\n-10%  $2,004.27   +$4.19K\nGreeks:\nΔ -25.06 ETH · Γ -0.0011 ETH/$\nVega +$5.63/vol pt · Theta -$27.48/day\nID:\n4080313074230325248",
-      "url": "https://t.me/laevitas/593994",
-      "utc": "2026-11-08T02:48:34+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593995",
-      "post_id": 593995,
-      "source": "public_html",
-      "text": "Opened CALL SPREAD\nDeribit · BTC · COMBO TRADE\n08 Nov 2026 03:04:02 UTC\n🟢\nBUY 10 BTC\n·\n150,000 Call · 24 Sep 27\n@ $893.861 · IV 41.86%\nBid $871.135 · Ask $984.762 · inside spread\n∆OI: 861.3 → 871.3 (+1.2%)\n🔴\nSELL 10 BTC\n·\n140,000 Call · 24 Sep 27\n@ $1,257.47 · IV 41.57%\nBid $1,212.01 · Ask $1,325.64 · inside spread\n∆OI: 565.5 → 575.5 (+1.8%)\nCredit:\n$3,636.04 ·\nNotional:\n$1,515,018.20\nSpot:\n$75,750.91\nMax profit:\n$3.64K ·\nMax loss:\n$96.36K\nExpiry breakeven:\n$140,363.60 (+85.3%)\nExpiry P&L:\nMove         Spot       P&L\n+110%  $159,076.91  -$96.36K\n+100%  $151,501.82  -$96.36K\n+98%     $150,000  -$96.36K\n+85.3%   $140,363.6     $0.00\n+84.8%     $140,000   +$3.64K\nFlat   $75,750.91   +$3.64K\nGreeks:\nΔ -0.22 BTC · Γ -1.14e-05 BTC/$\nVega -$231.94/vol pt · Theta +$14.67/day\nID:\n462445637",
-      "url": "https://t.me/laevitas/593995",
-      "utc": "2026-11-08T03:04:10+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593996",
-      "post_id": 593996,
-      "source": "public_html",
-      "text": "Opened CALL SPREAD\nDeribit · BTC · COMBO TRADE\n08 Nov 2026 03:04:32 UTC\n🟢\nBUY 10 BTC\n·\n150,000 Call · 24 Sep 27\n@ $893.863 · IV 41.86%\nBid $871.138 · Ask $984.765 · inside spread\n∆OI: 871.3 → 881.3 (+1.1%)\n🔴\nSELL 10 BTC\n·\n140,000 Call · 24 Sep 27\n@ $1,249.89 · IV 41.51%\nBid $1,212.02 · Ask $1,325.64 · inside spread\n∆OI: 575.5 → 585.5 (+1.7%)\nCredit:\n$3,560.30 ·\nNotional:\n$1,515,022.60\nSpot:\n$75,751.13\nMax profit:\n$3.56K ·\nMax loss:\n$96.44K\nExpiry breakeven:\n$140,356.03 (+85.3%)\nExpiry P&L:\nMove         Spot       P&L\n+110%  $159,077.37  -$96.44K\n+100%  $151,502.26  -$96.44K\n+98%     $150,000  -$96.44K\n+85.3%  $140,356.03     $0.00\n+84.8%     $140,000   +$3.56K\nFlat   $75,751.13   +$3.56K\nGreeks:\nΔ -0.22 BTC · Γ -1.13e-05 BTC/$\nVega -$228.09/vol pt · Theta +$14.32/day\nID:\n462445679",
-      "url": "https://t.me/laevitas/593996",
-      "utc": "2026-11-08T03:04:38+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593997",
-      "post_id": 593997,
-      "source": "public_html",
-      "text": "LONG STRANGLE\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:10:29 UTC\n🟢\nBUY 1 BTC\n·\n80,500 Call · 13 Nov 26\n@ $204.592 · IV 40.41%\nBid $189.437 · Ask $197.014 · above ask\n∆OI: 57.24 → 57.24\n🟢\nBUY 1 BTC\n·\n70,000 Put · 13 Nov 26\n@ $204.592 · IV 52.25%\nBid $204.592 · Ask $212.169 · at bid\n∆OI: 1,332.29 → 1,332.29\nCost:\n$409.18 ·\nNotional:\n$151,549.40\nSpot:\n$75,774.70\nMax profit:\nunbounded ·\nMax loss:\n$409.18\nExpiry breakeven:\n$69,590.82 (-8.2%), $80,909.18 (+6.8%)\nExpiry P&L:\nMove        Spot       P&L\n+10%  $83,352.17   +$2.44K\n+6.8%  $80,909.18     $0.00\n+6.2%     $80,500  -$409.18\nFlat   $75,774.7  -$409.18\n-7.6%     $70,000  -$409.18\n-8.2%  $69,590.82     $0.00\n-10%  $68,197.23   +$1.39K\nGreeks:\nΔ +0.0129 BTC · Γ +8.74e-05 BTC/$\nVega +$32.39/vol pt · Theta -$143.42/day\nID:\n4080387685060005888",
-      "url": "https://t.me/laevitas/593997",
-      "utc": "2026-11-08T03:25:36+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593998",
-      "post_id": 593998,
-      "source": "public_html",
-      "text": "LONG CALL\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:16:39 UTC\n🟢\nBUY 0.62 BTC\n·\n120,000 Call · 25 Jun 27\n@ $1,401.83 · IV 41.11%\nBid $1,288.16 · Ask $1,363.94 · above ask\n∆OI: 90.05 → 90.05\nCost:\n$869.13 ·\nNotional:\n$46,980.13\nSpot:\n$75,774.40\nMax profit:\nunbounded ·\nMax loss:\n$869.13\nExpiry breakeven:\n$121,401.83 (+60.2%)\nExpiry P&L:\nMove         Spot       P&L\n+80%  $136,393.92    +$9.3K\n+70%  $128,816.48    +$4.6K\n+60.2%  $121,401.83     $0.00\n+58.4%     $120,000  -$869.13\nFlat    $75,774.4  -$869.13\nGreeks:\nΔ +0.0657 BTC · Γ +4.6e-06 BTC/$\nVega +$68.13/vol pt · Theta -$6.11/day\nID:\n4080400117178388480",
-      "url": "https://t.me/laevitas/593998",
-      "utc": "2026-11-08T03:31:46+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/593999",
-      "post_id": 593999,
-      "source": "public_html",
-      "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:17:15 UTC\n🔴\nSELL 0.62 BTC\n·\n80,000 Call · 25 Jun 27\n@ $8,827.33 · IV 39.66%\nBid $8,827.33 · Ask $8,978.88 · at bid\n∆OI: 97.27 → 97.27\nCredit:\n$5,472.95 ·\nNotional:\n$46,978.08\nSpot:\n$75,771.10\nMax profit:\n$5.47K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$88,827.33 (+17.2%)\nExpiry P&L:\nMove        Spot      P&L\n+25%  $94,713.88  -$3.65K\n+20%  $90,925.32   -$1.3K\n+17.2%  $88,827.33    $0.00\n+5.6%     $80,000  +$5.47K\nFlat   $75,771.1  +$5.47K\nGreeks:\nΔ -0.31 BTC · Γ -1.04e-05 BTC/$\nVega -$148.49/vol pt · Theta +$12.85/day\nID:\n4080401330808639488",
-      "url": "https://t.me/laevitas/593999",
-      "utc": "2026-11-08T03:32:23+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/594000",
-      "post_id": 594000,
-      "source": "public_html",
-      "text": "SHORT CALL\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:17:50 UTC\n🔴\nSELL 0.8 BTC\n·\n80,000 Call · 26 Mar 27\n@ $6,212.8 · IV 39.05%\nBid $6,174.92 · Ask $6,288.57 · inside spread\n∆OI: 66.7 → 66.7\nCredit:\n$4,970.24 ·\nNotional:\n$60,612.72\nSpot:\n$75,765.90\nMax profit:\n$4.97K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$86,212.80 (+13.8%)\nExpiry P&L:\nMove        Spot       P&L\n+20%  $90,919.08   -$3.77K\n+15%  $87,130.78  -$734.38\n+13.8%   $86,212.8     $0.00\n+5.6%     $80,000   +$4.97K\nFlat   $75,765.9   +$4.97K\nGreeks:\nΔ -0.37 BTC · Γ -1.74e-05 BTC/$\nVega -$147.95/vol pt · Theta +$20.90/day\nID:\n4080402476927381504",
-      "url": "https://t.me/laevitas/594000",
-      "utc": "2026-11-08T03:32:56+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/594001",
-      "post_id": 594001,
-      "source": "public_html",
-      "text": "LONG CALL\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:18:18 UTC\n🟢\nBUY 0.8 BTC\n·\n120,000 Call · 26 Mar 27\n@ $492.474 · IV 42.79%\nBid $454.591 · Ask $492.474 · at ask\n∆OI: 23.18 → 23.18\nCost:\n$393.98 ·\nNotional:\n$60,612.16\nSpot:\n$75,765.20\nMax profit:\nunbounded ·\nMax loss:\n$393.98\nExpiry breakeven:\n$120,492.47 (+59%)\nExpiry P&L:\nMove         Spot       P&L\n+70%  $128,800.84   +$6.65K\n+60%  $121,224.32  +$585.48\n+59%  $120,492.47     $0.00\n+58.4%     $120,000  -$393.98\nFlat    $75,765.2  -$393.98\nGreeks:\nΔ +0.0425 BTC · Γ +4.34e-06 BTC/$\nVega +$40.38/vol pt · Theta -$6.25/day\nID:\n4080403432792477696",
-      "url": "https://t.me/laevitas/594001",
-      "utc": "2026-11-08T03:33:26+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": true,
-      "has_verified_timestamp": true,
-      "key": "laevitas/594002",
-      "post_id": 594002,
-      "source": "public_html",
-      "text": "LONG PUT\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 03:36:40 UTC\n🟢\nBUY 4.6 BTC\n·\n78,000 Put · 13 Nov 26\n@ $2,773.54 · IV 39.31%\nBid $2,652.3 · Ask $2,765.97 · above ask\n∆OI: 69.32 → 69.32\nCost:\n$12,758.30 ·\nNotional:\n$348,587.54\nSpot:\n$75,779.90\nMax profit:\n$346.04K ·\nMax loss:\n$12.76K\nExpiry breakeven:\n$75,226.46 (-0.7%)\nExpiry P&L:\nMove        Spot       P&L\n+5%   $79,568.9  -$12.76K\n+2.9%     $78,000  -$12.76K\nFlat   $75,779.9   -$2.55K\n-0.7%  $75,226.46     $0.00\n-5%   $71,990.9  +$14.88K\nGreeks:\nΔ -3.33 BTC · Γ +0.000434 BTC/$\nVega +$138.99/vol pt · Theta -$527.06/day\nID:\n4080440400582627328",
-      "url": "https://t.me/laevitas/594002",
-      "utc": "2026-11-08T03:51:47+00:00"
-    },
-    {
-      "channel": "laevitas",
       "has_media": false,
       "has_verified_timestamp": true,
-      "key": "laevitas/594003",
-      "post_id": 594003,
+      "key": "laevitas/594011",
+      "post_id": 594011,
       "source": "public_html",
-      "text": "Closed BULL DIAGONAL SPREAD (Puts)\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 04:35:33 UTC\n🟢\nBUY 15 BTC\n·\n76,500 Put · 08 Nov 26\n@ $682.62 · IV 28.01%\nBid $455.08 · Ask $834.313 · inside spread\n∆OI: 59.8 → 44.8 (-25.1%)\n🔴\nSELL 15 BTC\n·\n77,000 Put · 10 Nov 26\n@ $1,494.18 · IV 33.95%\nBid $1,403.16 · Ask $1,554.86 · inside spread\n∆OI: 28.8 → 16.3 (-43.4%)\nPremium received:\n$12,173.39 ·\nNotional:\n$2,275,399.80\nSpot:\n$75,846.66\nID:\nBLOCK-305344",
-      "url": "https://t.me/laevitas/594003",
-      "utc": "2026-11-08T04:35:41+00:00"
-    },
-    {
-      "channel": "laevitas",
-      "has_media": false,
-      "has_verified_timestamp": true,
-      "key": "laevitas/594004",
-      "post_id": 594004,
-      "source": "public_html",
-      "text": "PUT ROLL BACK/DOWN\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 04:36:23 UTC\nClose\n🟢\nBUY 15 BTC\n·\n76,000 Put · 08 Nov 26\n@ $212.37 · IV 17.10%\nBid $189.616 · Ask $257.878 · inside spread\n∆OI: 123 → 108 (-12.2%)\nOpen\n🔴\nSELL 15 BTC\n·\n78,000 Put · 13 Nov 26\n@ $2,707.72 · IV 39.01%\nBid $2,616.7 · Ask $2,844.24 · inside spread\n∆OI: 345.9 → 356.9 (+3.2%)\nRoll credit:\n$37,430.24 ·\nRolled notional:\n$1,137,697.35\nSpot:\n$75,846.49\nTrade insight\nSold 78,000 put at high vol (86th pct) vs 30d comparable options.\nID:\nBLOCK-305345",
-      "url": "https://t.me/laevitas/594004",
-      "utc": "2026-11-08T04:36:31+00:00"
+      "text": "📦\nBLOCK FLOW — last 8h (00:00–08:00 UTC)\n────────────────────────\n💰\n$18M notional | 46 blocks | $402K premium\nvs prior 8h: +101% · vs 7d avg: -95%\n────────────────────────\n🏛\nBy venue\nDeribit   $15M  79%\nDerive   $2.6M  14%\nOKX      $973K   5%\nBybit    $152K   1%\nParadex   $48K  <1%\n────────────────────────\n🤝\nBy provider\nVenue-native  $18M  100%\nParadigm      $48K   <1%  (Paradex $48K)\n────────────────────────\n🪙\nBy currency\nBTC $16M 85% · ETH $2.6M 14% · HYPE $114K 1% · VVV $774 <1% · other $626\n────────────────────────\n🧩\nTop structures: Diagonal spread (puts) $7.9M · Straddle $3.8M · Put roll back/down $2.3M\n🐋\nLargest: BTC 20NOV26 75k short straddle — $3.8M (Venue-native · Deribit)\n🧭\nView: Bearish 38% · Bullish 28% · Short vol 28% · Long vol 6% · (rolls/other $4.8M)\n────────────────────────\n📊\nOptions Flows →\nhttps://v3.laevitas.ch/crypto/options-flows?window=24h\n#blockflow",
+      "url": "https://t.me/laevitas/594011",
+      "utc": "2026-11-08T08:03:12+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594005",
-      "post_id": 594005,
+      "key": "laevitas/594012",
+      "post_id": 594012,
       "source": "public_html",
-      "text": "Opened SHORT STRADDLE\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 04:45:24 UTC\n🔴\nSELL 25 BTC\n·\n75,000 Call · 20 Nov 26\n@ $2,599.76 · IV 38.27%\nBid $2,577.02 · Ask $2,652.82 · inside spread\n∆OI: 6 → 31 (+416.7%)\n🔴\nSELL 25 BTC\n·\n75,000 Put · 20 Nov 26\n@ $1,697.8 · IV 38.97%\nBid $1,667.49 · Ask $1,743.28 · inside spread\n∆OI: 197.1 → 222.1 (+12.7%)\nCredit:\n$107,439.10 ·\nNotional:\n$3,789,739.00\nSpot:\n$75,794.78\nMax profit:\n$107.44K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$70,702.44 (-6.7%), $79,297.56 (+4.6%)\nExpiry P&L:\nMove        Spot        P&L\n+5%  $79,584.52    -$7.17K\n+4.6%  $79,297.56      $0.00\nFlat  $75,794.78   +$87.57K\n-1%     $75,000  +$107.44K\n-6.7%  $70,702.44      $0.00\n-10%   $68,215.3   -$62.18K\nGreeks:\nΔ -3.67 BTC · Γ -0.00367 BTC/$\nVega -$2.71K/vol pt · Theta +$4.31K/day\nID:\nBLOCK-305346",
-      "url": "https://t.me/laevitas/594005",
-      "utc": "2026-11-08T04:45:30+00:00"
+      "text": "Opened CALL SPREAD\nDeribit · BTC · COMBO TRADE\n08 Nov 2026 08:33:38 UTC\n🔴\nSELL 10 BTC\n·\n140,000 Call · 24 Sep 27\n@ $1,265.54 · IV 41.61%\nBid $1,212.49 · Ask $1,288.27 · inside spread\n∆OI: 585.5 → 595.5 (+1.7%)\n🟢\nBUY 10 BTC\n·\n150,000 Call · 24 Sep 27\n@ $909.37 · IV 42.00%\nBid $871.48 · Ask $947.26 · inside spread\n∆OI: 881.3 → 891.3 (+1.1%)\nCredit:\n$3,561.70 ·\nNotional:\n$1,515,616.80\nSpot:\n$75,780.84\nMax profit:\n$3.56K ·\nMax loss:\n$96.44K\nExpiry breakeven:\n$140,356.17 (+85.2%)\nExpiry P&L:\nMove         Spot       P&L\n+110%  $159,139.76  -$96.44K\n+100%  $151,561.68  -$96.44K\n+97.9%     $150,000  -$96.44K\n+85.2%  $140,356.17     $0.00\n+84.7%     $140,000   +$3.56K\nFlat   $75,780.84   +$3.56K\nGreeks:\nΔ -0.22 BTC · Γ -1.12e-05 BTC/$\nVega -$226.09/vol pt · Theta +$14.17/day\nID:\n462461239",
+      "url": "https://t.me/laevitas/594012",
+      "utc": "2026-11-08T08:33:45+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594006",
-      "post_id": 594006,
+      "key": "laevitas/594013",
+      "post_id": 594013,
       "source": "public_html",
-      "text": "SHORT CALL\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 05:14:58 UTC\n🔴\nSELL 15 ETH\n·\n2,550 Call · 13 Nov 26\n@ $2.45806 · IV 61.52%\nBid $2.45806 · Ask $2.68152 · at bid\n∆OI: 954 → 954\nCredit:\n$36.87 ·\nNotional:\n$33,519.00\nSpot:\n$2,234.60\nMax profit:\n$36.87 ·\nMax loss:\nunbounded\nExpiry breakeven:\n$2,552.46 (+14.2%)\nExpiry P&L:\nMove       Spot       P&L\n+20%  $2,681.52   -$1.94K\n+15%  $2,569.79  -$259.98\n+14.2%  $2,552.46     $0.00\n+14.1%     $2,550   +$36.87\nFlat   $2,234.6   +$36.87\nGreeks:\nΔ -0.57 ETH · Γ -0.00759 ETH/$\nVega -$3.27/vol pt · Theta +$19.65/day\nID:\n4080638298985418752",
-      "url": "https://t.me/laevitas/594006",
-      "utc": "2026-11-08T05:30:05+00:00"
+      "text": "BEAR CALL SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:46:11 UTC\n🔴\nSELL 5 ETH\n·\n2,400 Call · 12 Nov 26\n@ $5.81373 · IV 52.74%\nBid $6.03734 · Ask $6.26094 · below bid\n∆OI: 10 → 10\n🟢\nBUY 5 ETH\n·\n2,450 Call · 12 Nov 26\n@ $3.35408 · IV 55.66%\nBid $3.13047 · Ask $3.35408 · at ask\n∆OI: 10 → 10\nCredit:\n$12.30 ·\nNotional:\n$22,360.50\nSpot:\n$2,236.05\nMax profit:\n$12.30 ·\nMax loss:\n$237.70\nExpiry breakeven:\n$2,402.46 (+7.4%)\nExpiry P&L:\nMove       Spot       P&L\n+15%  $2,571.46  -$237.70\n+10%  $2,459.66  -$237.70\n+9.6%     $2,450  -$237.70\n+7.4%  $2,402.46     $0.00\n+7.3%     $2,400   +$12.30\nFlat  $2,236.05   +$12.30\nGreeks:\nΔ -0.21 ETH · Γ -0.00268 ETH/$\nVega -$0.70/vol pt · Theta +$4.10/day\nID:\n4081063556682969088",
+      "url": "https://t.me/laevitas/594013",
+      "utc": "2026-11-08T09:01:19+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594007",
-      "post_id": 594007,
+      "key": "laevitas/594014",
+      "post_id": 594014,
       "source": "public_html",
-      "text": "SHORT PUT\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 05:20:50 UTC\n🔴\nSELL 0.02 BTC\n·\n72,000 Put · 13 Nov 26\n@ $363.65 · IV 46.63%\nBid $378.802 · Ask $416.682 · below bid\n∆OI: 153.35 → 153.35\nCredit:\n$7.27 ·\nNotional:\n$1,515.21\nSpot:\n$75,760.40\nMax profit:\n$7.27 ·\nMax loss:\n$1.43K\nExpiry breakeven:\n$71,636.35 (-5.4%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $75,760.4    +$7.27\n-5%     $72,000    +$7.27\n-5.4%  $71,636.35     $0.00\n-10%  $68,184.36   -$69.04\n-15%  $64,396.34  -$144.80\nGreeks:\nΔ +0.00342 BTC · Γ -1.22e-06 BTC/$\nVega -$0.46/vol pt · Theta +$2.08/day\nID:\n4080650106823593984",
-      "url": "https://t.me/laevitas/594007",
-      "utc": "2026-11-08T05:35:56+00:00"
+      "text": "BULL PUT SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:46:27 UTC\n🔴\nSELL 5 ETH\n·\n2,050 Put · 12 Nov 26\n@ $7.82453 · IV 68.60%\nBid $8.27165 · Ask $8.4952 · below bid\n∆OI: 10 → 10\n🟢\nBUY 5 ETH\n·\n2,000 Put · 12 Nov 26\n@ $5.58895 · IV 75.44%\nBid $5.58895 · Ask $5.81251 · at bid\n∆OI: 10.3 → 10.3\nCredit:\n$11.18 ·\nNotional:\n$22,355.80\nSpot:\n$2,235.58\nMax profit:\n$11.18 ·\nMax loss:\n$238.82\nExpiry breakeven:\n$2,047.76 (-8.4%)\nExpiry P&L:\nMove       Spot       P&L\nFlat  $2,235.58   +$11.18\n-8.3%     $2,050   +$11.18\n-8.4%  $2,047.76     $0.00\n-10.5%     $2,000  -$238.82\n-15%  $1,900.24  -$238.82\n-20%  $1,788.46  -$238.82\nGreeks:\nΔ +0.17 ETH · Γ -0.00179 ETH/$\nVega -$0.52/vol pt · Theta +$3.13/day\nID:\n4081064083185561600",
+      "url": "https://t.me/laevitas/594014",
+      "utc": "2026-11-08T09:01:34+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594008",
-      "post_id": 594008,
+      "key": "laevitas/594015",
+      "post_id": 594015,
       "source": "public_html",
-      "text": "BEAR DIAGONAL SPREAD (Puts)\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 06:47:38 UTC\n🟢\nBUY 15 BTC\n·\n76,000 Put · 08 Nov 26\n@ $302.798 · IV 45.31%\nBid $257.378 · Ask $363.357 · inside spread\n∆OI: 107.7 → 107.7\n🔴\nSELL 15 BTC\n·\n77,000 Put · 10 Nov 26\n@ $1,574.55 · IV 33.60%\nBid $1,513.99 · Ask $1,665.39 · inside spread\n∆OI: 16.3 → 18.8 (+15.3%)\nCredit:\n$19,076.24 ·\nNotional:\n$2,270,981.40\nSpot:\n$75,699.38\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot       P&L\n+10%  $83,269.32  +$19.07K\n+5%  $79,484.35  +$17.68K\n+1.7%     $77,000   +$7.62K\n+0.4%     $76,000   -$1.35K\nFlat  $75,699.38   -$98.13\nGreeks:\nΔ -0.37 BTC · Γ +0.00877 BTC/$\nVega -$232.02/vol pt · Theta -$15.95K/day\nID:\nBLOCK-305347",
-      "url": "https://t.me/laevitas/594008",
-      "utc": "2026-11-08T06:47:44+00:00"
+      "text": "BEAR CALL SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:47:07 UTC\n🔴\nSELL 5 ETH\n·\n2,400 Call · 12 Nov 26\n@ $5.81126 · IV 52.98%\nBid $6.03477 · Ask $6.25828 · below bid\n∆OI: 10 → 10\n🟢\nBUY 5 ETH\n·\n2,450 Call · 12 Nov 26\n@ $3.35265 · IV 55.66%\nBid $3.12914 · Ask $3.35265 · at ask\n∆OI: 10 → 10\nCredit:\n$12.29 ·\nNotional:\n$22,351.00\nSpot:\n$2,235.10\nMax profit:\n$12.29 ·\nMax loss:\n$237.71\nExpiry breakeven:\n$2,402.46 (+7.5%)\nExpiry P&L:\nMove       Spot       P&L\n+15%  $2,570.37  -$237.71\n+10%  $2,458.61  -$237.71\n+9.6%     $2,450  -$237.71\n+7.5%  $2,402.46     $0.00\n+7.4%     $2,400   +$12.29\nFlat   $2,235.1   +$12.29\nGreeks:\nΔ -0.22 ETH · Γ -0.00269 ETH/$\nVega -$0.71/vol pt · Theta +$4.25/day\nID:\n4081065436435804160",
+      "url": "https://t.me/laevitas/594015",
+      "utc": "2026-11-08T09:02:14+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594009",
-      "post_id": 594009,
+      "key": "laevitas/594016",
+      "post_id": 594016,
       "source": "public_html",
-      "text": "BEAR DIAGONAL SPREAD (Puts)\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 06:54:21 UTC\n🟢\nBUY 15 BTC\n·\n76,500 Put · 08 Nov 26\n@ $794.946 · IV 126.47%\nBid $643.528 · Ask $946.364 · inside spread\n∆OI: 44.8 → 44.8\n🔴\nSELL 15 BTC\n·\n78,000 Put · 10 Nov 26\n@ $2,407.55 · IV 34.86%\nBid $2,233.42 · Ask $2,649.82 · inside spread\n∆OI: 1 → 16 (+1500.0%)\nCredit:\n$24,189.07 ·\nNotional:\n$2,271,273.90\nSpot:\n$75,709.13\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot       P&L\n+10%  $83,280.04  +$24.13K\n+5%  $79,494.59  +$20.09K\n+3%     $78,000  +$12.14K\n+1%     $76,500   -$2.22K\nFlat  $75,709.13  -$138.72\nGreeks:\nΔ +1.56 BTC · Γ +0.00269 BTC/$\nVega -$140.43/vol pt · Theta -$52.35K/day\nID:\nBLOCK-305348",
-      "url": "https://t.me/laevitas/594009",
-      "utc": "2026-11-08T06:54:28+00:00"
+      "text": "BULL PUT SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:47:10 UTC\n🔴\nSELL 5 ETH\n·\n2,050 Put · 12 Nov 26\n@ $7.82299 · IV 68.60%\nBid $8.27002 · Ask $8.49353 · below bid\n∆OI: 10 → 10\n🟢\nBUY 5 ETH\n·\n2,000 Put · 12 Nov 26\n@ $5.58785 · IV 75.44%\nBid $5.58785 · Ask $5.81136 · at bid\n∆OI: 10.3 → 10.3\nCredit:\n$11.18 ·\nNotional:\n$22,351.40\nSpot:\n$2,235.14\nMax profit:\n$11.18 ·\nMax loss:\n$238.82\nExpiry breakeven:\n$2,047.76 (-8.4%)\nExpiry P&L:\nMove       Spot       P&L\nFlat  $2,235.14   +$11.18\n-8.3%     $2,050   +$11.18\n-8.4%  $2,047.76     $0.00\n-10.5%     $2,000  -$238.82\n-15%  $1,899.87  -$238.82\n-20%  $1,788.11  -$238.82\nGreeks:\nΔ +0.17 ETH · Γ -0.0018 ETH/$\nVega -$0.52/vol pt · Theta +$3.14/day\nID:\n4081065516295344128",
+      "url": "https://t.me/laevitas/594016",
+      "utc": "2026-11-08T09:02:19+00:00"
     },
     {
       "channel": "laevitas",
       "has_media": true,
       "has_verified_timestamp": true,
-      "key": "laevitas/594010",
-      "post_id": 594010,
+      "key": "laevitas/594017",
+      "post_id": 594017,
       "source": "public_html",
-      "text": "LONG STRANGLE\nDeribit · ETH · BLOCK TRADE\n08 Nov 2026 07:17:13 UTC\n🟢\nBUY 150 ETH\n·\n2,220 Put · 09 Nov 26\n@ $12.7284 · IV 39.87%\nBid $11.1653 · Ask $13.3984 · inside spread\n∆OI: 1,269 → 1,269\n🟢\nBUY 150 ETH\n·\n2,260 Call · 09 Nov 26\n@ $6.92246 · IV 35.51%\nBid $6.47585 · Ask $7.36907 · inside spread\n∆OI: 1,269 → 1,269\nCost:\n$2,947.63 ·\nNotional:\n$669,916.50\nSpot:\n$2,233.06\nMax profit:\nunbounded ·\nMax loss:\n$2.95K\nExpiry breakeven:\n$2,200.35 (-1.5%), $2,279.65 (+2.1%)\nExpiry P&L:\nMove       Spot       P&L\n+5%  $2,344.71   +$9.76K\n+2.1%  $2,279.65     $0.00\n+1.2%     $2,260   -$2.95K\nFlat  $2,233.06   -$2.95K\n-0.6%     $2,220   -$2.95K\n-1.5%  $2,200.35     $0.00\n-5%  $2,121.41  +$11.84K\nGreeks:\nΔ -18.20 ETH · Γ +2.38 ETH/$\nVega +$126.43/vol pt · Theta -$2.32K/day\nID:\nBLOCK-305349",
-      "url": "https://t.me/laevitas/594010",
-      "utc": "2026-11-08T07:17:20+00:00"
+      "text": "BEAR CALL SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:57:39 UTC\n🔴\nSELL 9 ETH\n·\n2,400 Call · 13 Nov 26\n@ $8.49007 · IV 52.98%\nBid $8.93692 · Ask $9.16034 · below bid\n∆OI: 2,322.5 → 2,322.5\n🟢\nBUY 9 ETH\n·\n2,450 Call · 13 Nov 26\n@ $5.13873 · IV 55.91%\nBid $5.36215 · Ask $5.58558 · below bid\n∆OI: 4,301 → 4,301\nCredit:\n$30.16 ·\nNotional:\n$40,216.14\nSpot:\n$2,234.23\nMax profit:\n$30.16 ·\nMax loss:\n$419.84\nExpiry breakeven:\n$2,403.35 (+7.6%)\nExpiry P&L:\nMove       Spot       P&L\n+15%  $2,569.36  -$419.84\n+10%  $2,457.65  -$419.84\n+9.7%     $2,450  -$419.84\n+7.6%  $2,403.35     $0.00\n+7.4%     $2,400   +$30.16\nFlat  $2,234.23   +$30.16\nGreeks:\nΔ -0.42 ETH · Γ -0.00428 ETH/$\nVega -$1.35/vol pt · Theta +$6.15/day\nID:\n4081086642769719296",
+      "url": "https://t.me/laevitas/594017",
+      "utc": "2026-11-08T09:12:47+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594018",
+      "post_id": 594018,
+      "source": "public_html",
+      "text": "BULL PUT SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 08:58:32 UTC\n🔴\nSELL 10 ETH\n·\n2,050 Put · 13 Nov 26\n@ $10.0512 · IV 64.70%\nBid $10.0512 · Ask $10.2746 · at bid\n∆OI: 1,825.2 → 1,825.2\n🟢\nBUY 10 ETH\n·\n2,000 Put · 13 Nov 26\n@ $7.14755 · IV 70.80%\nBid $6.92419 · Ask $7.14755 · at ask\n∆OI: 2,079.4 → 2,079.4\nCredit:\n$29.04 ·\nNotional:\n$44,672.20\nSpot:\n$2,233.61\nMax profit:\n$29.04 ·\nMax loss:\n$470.96\nExpiry breakeven:\n$2,047.10 (-8.4%)\nExpiry P&L:\nMove       Spot       P&L\nFlat  $2,233.61   +$29.04\n-8.2%     $2,050   +$29.04\n-8.4%   $2,047.1     $0.00\n-10.5%     $2,000  -$470.96\n-15%  $1,898.57  -$470.96\n-20%  $1,786.89  -$470.96\nGreeks:\nΔ +0.36 ETH · Γ -0.00352 ETH/$\nVega -$1.20/vol pt · Theta +$5.35/day\nID:\n4081088403840520192",
+      "url": "https://t.me/laevitas/594018",
+      "utc": "2026-11-08T09:13:39+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594019",
+      "post_id": 594019,
+      "source": "public_html",
+      "text": "BEAR CALL SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 09:29:53 UTC\n🔴\nSELL 5 ETH\n·\n2,550 Call · 20 Nov 26\n@ $9.6093 · IV 54.08%\nBid $9.83277 · Ask $10.0562 · below bid\n∆OI: 367.7 → 367.7\n🟢\nBUY 5 ETH\n·\n2,600 Call · 20 Nov 26\n@ $7.1511 · IV 55.91%\nBid $7.1511 · Ask $7.37458 · at bid\n∆OI: 817.5 → 817.5\nCredit:\n$12.29 ·\nNotional:\n$22,347.20\nSpot:\n$2,234.72\nMax profit:\n$12.29 ·\nMax loss:\n$237.71\nExpiry breakeven:\n$2,552.46 (+14.2%)\nExpiry P&L:\nMove       Spot       P&L\n+25%   $2,793.4  -$237.71\n+20%  $2,681.66  -$237.71\n+16.3%     $2,600  -$237.71\n+14.2%  $2,552.46     $0.00\n+14.1%     $2,550   +$12.29\nFlat  $2,234.72   +$12.29\nGreeks:\nΔ -0.11 ETH · Γ -0.000818 ETH/$\nVega -$0.63/vol pt · Theta +$1.21/day\nID:\n4081151526639325184",
+      "url": "https://t.me/laevitas/594019",
+      "utc": "2026-11-08T09:45:01+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594020",
+      "post_id": 594020,
+      "source": "public_html",
+      "text": "BULL PUT SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 09:29:56 UTC\n🔴\nSELL 5 ETH\n·\n1,950 Put · 20 Nov 26\n@ $14.9726 · IV 64.94%\nBid $14.5257 · Ask $15.643 · inside spread\n∆OI: 727.1 → 727.1\n🟢\nBUY 5 ETH\n·\n1,900 Put · 20 Nov 26\n@ $11.6205 · IV 70.44%\nBid $11.1736 · Ask $12.291 · inside spread\n∆OI: 2,720.5 → 2,720.5\nCredit:\n$16.76 ·\nNotional:\n$22,347.20\nSpot:\n$2,234.72\nMax profit:\n$16.76 ·\nMax loss:\n$233.24\nExpiry breakeven:\n$1,946.65 (-12.9%)\nExpiry P&L:\nMove       Spot       P&L\nFlat  $2,234.72   +$16.76\n-12.7%     $1,950   +$16.76\n-12.9%  $1,946.65     $0.00\n-15%     $1,900  -$233.24\n-15%  $1,899.51  -$233.24\n-20%  $1,787.78  -$233.24\nGreeks:\nΔ +0.10 ETH · Γ -0.00075 ETH/$\nVega -$0.54/vol pt · Theta +$0.71/day\nID:\n4081151611599155200",
+      "url": "https://t.me/laevitas/594020",
+      "utc": "2026-11-08T09:45:07+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594021",
+      "post_id": 594021,
+      "source": "public_html",
+      "text": "BEAR CALL SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 09:30:15 UTC\n🔴\nSELL 5 ETH\n·\n2,550 Call · 20 Nov 26\n@ $9.6093 · IV 54.08%\nBid $9.83277 · Ask $10.0562 · below bid\n∆OI: 367.7 → 367.7\n🟢\nBUY 5 ETH\n·\n2,600 Call · 20 Nov 26\n@ $7.1511 · IV 55.79%\nBid $7.1511 · Ask $7.37458 · at bid\n∆OI: 817.5 → 817.5\nCredit:\n$12.29 ·\nNotional:\n$22,347.20\nSpot:\n$2,234.72\nMax profit:\n$12.29 ·\nMax loss:\n$237.71\nExpiry breakeven:\n$2,552.46 (+14.2%)\nExpiry P&L:\nMove       Spot       P&L\n+25%   $2,793.4  -$237.71\n+20%  $2,681.66  -$237.71\n+16.3%     $2,600  -$237.71\n+14.2%  $2,552.46     $0.00\n+14.1%     $2,550   +$12.29\nFlat  $2,234.72   +$12.29\nGreeks:\nΔ -0.12 ETH · Γ -0.000826 ETH/$\nVega -$0.64/vol pt · Theta +$1.26/day\nID:\n4081152261246513152",
+      "url": "https://t.me/laevitas/594021",
+      "utc": "2026-11-08T09:45:23+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594022",
+      "post_id": 594022,
+      "source": "public_html",
+      "text": "BULL PUT SPREAD\nOKX · ETH · BLOCK TRADE\n08 Nov 2026 09:30:17 UTC\n🔴\nSELL 5 ETH\n·\n1,950 Put · 20 Nov 26\n@ $14.9726 · IV 65.06%\nBid $14.5257 · Ask $15.643 · inside spread\n∆OI: 727.1 → 727.1\n🟢\nBUY 5 ETH\n·\n1,900 Put · 20 Nov 26\n@ $11.6205 · IV 70.56%\nBid $11.1736 · Ask $12.291 · inside spread\n∆OI: 2,720.5 → 2,720.5\nCredit:\n$16.76 ·\nNotional:\n$22,347.20\nSpot:\n$2,234.72\nMax profit:\n$16.76 ·\nMax loss:\n$233.24\nExpiry breakeven:\n$1,946.65 (-12.9%)\nExpiry P&L:\nMove       Spot       P&L\nFlat  $2,234.72   +$16.76\n-12.7%     $1,950   +$16.76\n-12.9%  $1,946.65     $0.00\n-15%     $1,900  -$233.24\n-15%  $1,899.51  -$233.24\n-20%  $1,787.78  -$233.24\nGreeks:\nΔ +0.10 ETH · Γ -0.000749 ETH/$\nVega -$0.54/vol pt · Theta +$0.71/day\nID:\n4081152333556305920",
+      "url": "https://t.me/laevitas/594022",
+      "utc": "2026-11-08T09:45:28+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594023",
+      "post_id": 594023,
+      "source": "public_html",
+      "text": "SHORT STRADDLE\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 11:26:30 UTC\n🔴\nSELL 15 BTC\n·\n75,500 Call · 11 Nov 26\n@ $1,237.21 · IV 38.14%\nBid $1,252.39 · Ask $1,328.29 · below bid\n∆OI: 0.1 → 15.1 (+15000.0%)\n🔴\nSELL 15 BTC\n·\n75,500 Put · 11 Nov 26\n@ $857.695 · IV 39.30%\nBid $834.925 · Ask $872.876 · inside spread\n∆OI: 7.1 → 7.1\nCredit:\n$31,423.53 ·\nNotional:\n$2,277,067.20\nSpot:\n$75,902.24\nMax profit:\n$31.42K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$73,405.10 (-3.3%), $77,594.90 (+2.2%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $79,697.35  -$31.54K\n+2.2%   $77,594.9     $0.00\nFlat  $75,902.24  +$25.39K\n-0.5%     $75,500  +$31.42K\n-3.3%   $73,405.1     $0.00\n-5%  $72,107.13  -$19.47K\nGreeks:\nΔ -2.05 BTC · Γ -0.00454 BTC/$\nVega -$791.80/vol pt · Theta +$5.37K/day\nID:\nBLOCK-305350",
+      "url": "https://t.me/laevitas/594023",
+      "utc": "2026-11-08T11:26:37+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594024",
+      "post_id": 594024,
+      "source": "public_html",
+      "text": "BULL DIAGONAL SPREAD (Puts)\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 11:31:42 UTC\n🔴\nSELL 30 BTC\n·\n75,000 Put · 13 Nov 26\n@ $1,001.76 · IV 40.92%\nBid $986.584 · Ask $1,062.48 · inside spread\n∆OI: 1,014 → 1,014\n🟢\nBUY 15 BTC\n·\n77,000 Put · 27 Nov 26\n@ $3,050.82 · IV 37.38%\nBid $2,997.7 · Ask $3,073.59 · inside spread\n∆OI: 746.4 → 761.4 (+2.0%)\nCost:\n$15,709.46 ·\nNotional:\n$3,415,099.50\nSpot:\n$75,891.10\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot       P&L\n+5%  $79,685.66   +$2.15K\n+1.5%     $77,000  +$18.02K\nFlat   $75,891.1  +$26.74K\n-1.2%     $75,000   +$34.7K\n-5%  $72,096.54  -$21.03K\nGreeks:\nΔ +3.50 BTC · Γ -0.0023 BTC/$\nVega +$14.92/vol pt · Theta +$3.24K/day\nID:\nBLOCK-305351",
+      "url": "https://t.me/laevitas/594024",
+      "utc": "2026-11-08T11:31:49+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594025",
+      "post_id": 594025,
+      "source": "public_html",
+      "text": "REVERSE CALL CALENDAR\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 12:16:14 UTC\n🔴\nSELL 0.1 BTC\n·\n82,000 Call · 27 Nov 26\n@ $644.924 · IV 36.32%\nBid $644.924 · Ask $682.861 · at bid\n∆OI: 162.98 → 162.98\n🟢\nBUY 0.1 BTC\n·\n82,000 Call · 13 Nov 26\n@ $91.0481 · IV 42.24%\nBid $83.4607 · Ask $91.0481 · at ask\n∆OI: 97.8 → 97.8\nCredit:\n$55.39 ·\nNotional:\n$15,174.68\nSpot:\n$75,873.40\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot       P&L\n+15%  $87,254.41    -$8.03\n+10%  $83,460.74  -$113.47\n+8.1%     $82,000  -$177.24\nFlat   $75,873.4   +$16.28\nGreeks:\nΔ -0.0126 BTC · Γ -1.12e-06 BTC/$\nVega -$3.58/vol pt · Theta +$0.02/day\nID:\n4081486423258124288",
+      "url": "https://t.me/laevitas/594025",
+      "utc": "2026-11-08T12:31:20+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594026",
+      "post_id": 594026,
+      "source": "public_html",
+      "text": "Opened SHORT STRANGLE\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 13:11:47 UTC\n🔴\nSELL 15 BTC\n·\n76,000 Call · 10 Nov 26\n@ $714.288 · IV 34.16%\nBid $721.887 · Ask $797.875 · below bid\n∆OI: 42 → 57 (+35.7%)\n🔴\nSELL 15 BTC\n·\n75,500 Put · 10 Nov 26\n@ $569.911 · IV 37.26%\nBid $531.917 · Ask $607.905 · inside spread\n∆OI: 72 → 87 (+20.8%)\nCredit:\n$19,262.99 ·\nNotional:\n$2,279,643.30\nSpot:\n$75,988.11\nMax profit:\n$19.26K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$74,215.80 (-2.3%), $77,284.20 (+1.7%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $79,787.52  -$37.55K\n+1.7%   $77,284.2     $0.00\n+0%     $76,000  +$19.26K\nFlat  $75,988.11  +$19.26K\n-0.6%     $75,500  +$19.26K\n-2.3%   $74,215.8     $0.00\n-5%   $72,188.7  -$30.41K\nGreeks:\nΔ -1.57 BTC · Γ -0.00622 BTC/$\nVega -$625.11/vol pt · Theta +$6.25K/day\nID:\nBLOCK-305352",
+      "url": "https://t.me/laevitas/594026",
+      "utc": "2026-11-08T13:11:54+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594027",
+      "post_id": 594027,
+      "source": "public_html",
+      "text": "SHORT STRANGLE\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 13:12:44 UTC\n🔴\nSELL 25 BTC\n·\n76,000 Call · 12 Nov 26\n@ $1,170.37 · IV 37.61%\nBid $1,177.97 · Ask $1,253.97 · below bid\n∆OI: 25.1 → 25.1\n🔴\nSELL 25 BTC\n·\n75,500 Put · 12 Nov 26\n@ $972.774 · IV 39.49%\nBid $949.975 · Ask $987.974 · inside spread\n∆OI: 25 → 25\nCredit:\n$53,578.57 ·\nNotional:\n$3,799,898.50\nSpot:\n$75,997.97\nTrade insight\nSold 76,000 call (12 Nov 26): fill-implied IV 1.2 pts below prior fitted smile.\nMax profit:\n$53.58K ·\nMax loss:\nunbounded\nExpiry breakeven:\n$73,356.86 (-3.5%), $78,143.14 (+2.8%)\nExpiry P&L:\nMove        Spot       P&L\n+5%  $79,797.87  -$41.37K\n+2.8%  $78,143.14     $0.00\n+0%     $76,000  +$53.58K\nFlat  $75,997.97  +$53.58K\n-0.7%     $75,500  +$53.58K\n-3.5%  $73,356.86     $0.00\n-5%  $72,198.07  -$28.97K\nGreeks:\nΔ -2.01 BTC · Γ -0.00664 BTC/$\nVega -$1.53K/vol pt · Theta +$7.8K/day\nID:\nBLOCK-305353",
+      "url": "https://t.me/laevitas/594027",
+      "utc": "2026-11-08T13:12:52+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594028",
+      "post_id": 594028,
+      "source": "public_html",
+      "text": "SHORT PUT\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 13:05:57 UTC\n🔴\nSELL 4.2 BTC\n·\n68,000 Put · 20 Nov 26\n@ $311.952 · IV 49.68%\nBid $304.344 · Ask $311.952 · at ask\n∆OI: 93.89 → 93.89\nCredit:\n$1,310.20 ·\nNotional:\n$319,560.78\nSpot:\n$76,085.90\nMax profit:\n$1.31K ·\nMax loss:\n$284.29K\nExpiry breakeven:\n$67,688.05 (-11%)\nExpiry P&L:\nMove        Spot       P&L\nFlat   $76,085.9   +$1.31K\n-10.6%     $68,000   +$1.31K\n-11%  $67,688.05     $0.00\n-15%  $64,673.01  -$12.66K\n-20%  $60,868.72  -$28.64K\nGreeks:\nΔ +0.40 BTC · Γ -0.000106 BTC/$\nVega -$98.02/vol pt · Theta +$206.58/day\nID:\n4081586508948131840",
+      "url": "https://t.me/laevitas/594028",
+      "utc": "2026-11-08T13:21:03+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594029",
+      "post_id": 594029,
+      "source": "public_html",
+      "text": "BEAR CALL SPREAD\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 13:40:28 UTC\n🟢\nBUY 108 BTC\n·\n90,000 Call · 27 Nov 26\n@ $106.217 · IV 40.92%\nBid $91.0435 · Ask $106.217 · at ask\n∆OI: 4,583.5 → 4,583.5\n🔴\nSELL 108 BTC\n·\n85,000 Call · 27 Nov 26\n@ $303.478 · IV 37.36%\nBid $303.478 · Ask $326.239 · at bid\n∆OI: 2,449.5 → 2,449.5\nCredit:\n$21,304.18 ·\nNotional:\n$16,387,831.44\nSpot:\n$75,869.59\nMax profit:\n$21.3K ·\nMax loss:\n$518.7K\nExpiry breakeven:\n$85,197.26 (+12.3%)\nExpiry P&L:\nMove        Spot       P&L\n+25%  $94,836.99  -$518.7K\n+20%  $91,043.51  -$518.7K\n+18.6%     $90,000  -$518.7K\n+12.3%  $85,197.26     $0.00\n+12%     $85,000   +$21.3K\nFlat  $75,869.59   +$21.3K\nGreeks:\nΔ -6.54 BTC · Γ -0.00166 BTC/$\nVega -$1.71K/vol pt · Theta +$1.56K/day\nID:\nBLOCK-305354",
+      "url": "https://t.me/laevitas/594029",
+      "utc": "2026-11-08T13:40:37+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594030",
+      "post_id": 594030,
+      "source": "public_html",
+      "text": "BEAR CALL SPREAD\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 13:42:10 UTC\n🔴\nSELL 100 BTC\n·\n90,000 Call · 25 Dec 26\n@ $637.027 · IV 38.32%\nBid $644.611 · Ask $682.529 · below bid\n∆OI: 5,309.1 → 5,309.1\n🟢\nBUY 100 BTC\n·\n100,000 Call · 25 Dec 26\n@ $197.175 · IV 42.31%\nBid $174.424 · Ask $204.759 · inside spread\n∆OI: 6,637.1 → 6,637.1\nCredit:\n$43,985.21 ·\nNotional:\n$15,167,314.00\nSpot:\n$75,836.57\nMax profit:\n$43.99K ·\nMax loss:\n$956.01K\nExpiry breakeven:\n$90,439.85 (+19.3%)\nExpiry P&L:\nMove         Spot        P&L\n+40%   $106,171.2  -$956.01K\n+35%  $102,379.37  -$956.01K\n+31.9%     $100,000  -$956.01K\n+19.3%   $90,439.85      $0.00\n+18.7%      $90,000   +$43.99K\nFlat   $75,836.57   +$43.99K\nGreeks:\nΔ -7.90 BTC · Γ -0.00116 BTC/$\nVega -$3.06K/vol pt · Theta +$1.15K/day\nID:\nBLOCK-305355",
+      "url": "https://t.me/laevitas/594030",
+      "utc": "2026-11-08T13:42:18+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594031",
+      "post_id": 594031,
+      "source": "public_html",
+      "text": "LONG STRANGLE\nOKX · BTC · BLOCK TRADE\n08 Nov 2026 13:46:49 UTC\n🟢\nBUY 0.01 BTC\n·\n75,250 Put · 09 Nov 26\n@ $235.056 · IV 34.67%\nBid $227.474 · Ask $235.056 · at ask\n∆OI: 79.63 → 79.63\n🟢\nBUY 0.01 BTC\n·\n76,500 Call · 09 Nov 26\n@ $197.144 · IV 32.23%\nBid $181.979 · Ask $189.561 · above ask\n∆OI: 72.59 → 72.59\nCost:\n$4.32 ·\nNotional:\n$1,516.50\nSpot:\n$75,824.50\nMax profit:\nunbounded ·\nMax loss:\n$4.32\nExpiry breakeven:\n$74,817.80 (-1.3%), $76,932.20 (+1.5%)\nExpiry P&L:\nMove        Spot      P&L\n+5%  $79,615.73  +$26.84\n+1.5%   $76,932.2    $0.00\n+0.9%     $76,500   -$4.32\nFlat   $75,824.5   -$4.32\n-0.8%     $75,250   -$4.32\n-1.3%   $74,817.8    $0.00\n-5%  $72,033.27  +$27.85\nGreeks:\nΔ -0.000369 BTC · Γ +5.95e-06 BTC/$\nVega +$0.24/vol pt · Theta -$5.25/day\nID:\n4081668812164919296",
+      "url": "https://t.me/laevitas/594031",
+      "utc": "2026-11-08T14:01:57+00:00"
+    },
+    {
+      "channel": "laevitas",
+      "has_media": true,
+      "has_verified_timestamp": true,
+      "key": "laevitas/594032",
+      "post_id": 594032,
+      "source": "public_html",
+      "text": "PUT CALENDAR\nDeribit · BTC · BLOCK TRADE\n08 Nov 2026 14:49:06 UTC\n🔴\nSELL 15 BTC\n·\n75,500 Put · 10 Nov 26\n@ $599.815 · IV 38.17%\nBid $569.444 · Ask $645.37 · inside spread\n∆OI: 87 → 102 (+17.2%)\n🟢\nBUY 15 BTC\n·\n75,500 Put · 11 Nov 26\n@ $857.958 · IV 40.66%\nBid $797.218 · Ask $873.144 · inside spread\n∆OI: 22.3 → 22.3\nCost:\n$3,872.16 ·\nNotional:\n$2,277,771.75\nSpot:\n$75,925.92\nTrade insight\nBought 75,500 put at high vol (89th pct) vs 30d comparable options.\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove        Spot      P&L\nFlat  $75,925.92  +$2.91K\n-0.6%     $75,500  +$5.74K\n-5%  $72,129.62  -$3.74K\n-10%  $68,333.33  -$3.87K\nGreeks:\nΔ -0.29 BTC · Γ -0.000722 BTC/$\nVega +$82.24/vol pt · Theta +$488.28/day\nID:\nBLOCK-305356",
+      "url": "https://t.me/laevitas/594032",
+      "utc": "2026-11-08T14:49:14+00:00"
     }
   ],
   "note": "No new posts is not a data outage. Cross-check data/recent.json to recover trades missed by delayed analyst polls. A green workflow does not prove a fresh source.",
-  "recent_48h_count": 347,
+  "recent_48h_count": 286,
   "recent_48h_path": "data/recent.json",
   "source_freshness_confirmed": true
 }
