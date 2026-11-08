@@ -45714,5 +45714,93 @@
     "text": "SHORT CALL LADDER\nOKX · BTC · BLOCK TRADE\n07 Nov 2026 21:58:41 UTC\n🔴\nSELL 0.01 BTC\n·\n70,000 Call · 25 Dec 26\n@ $7,979.31 · IV 40.16%\nBid $7,979.31 · Ask $8,092.76 · at bid\n∆OI: 158.4 → 158.4\n🟢\nBUY 0.01 BTC\n·\n72,000 Call · 25 Dec 26\n@ $6,648.17 · IV 40.47%\nBid $6,580.1 · Ask $6,693.55 · inside spread\n∆OI: 43.84 → 43.84\n🟢\nBUY 0.01 BTC\n·\n75,000 Call · 25 Dec 26\n@ $4,817.84 · IV 39.00%\nBid $4,764.9 · Ask $4,840.53 · inside spread\n∆OI: 92.86 → 92.86\nCost:\n$34.87 ·\nNotional:\n$2,268.99\nSpot:\n$75,633.30\nMax profit:\nunbounded ·\nMax loss:\n$54.87\nExpiry breakeven:\n$80,486.70 (+6.4%)\nExpiry P&L:\nMove        Spot      P&L\n+10%  $83,196.63  +$27.10\n+6.4%   $80,486.7    $0.00\nFlat   $75,633.3  -$48.53\n-0.8%     $75,000  -$54.87\n-4.8%     $72,000  -$54.87\n-7.4%     $70,000  -$34.87\n-10%  $68,069.97  -$34.87\nGreeks:\nΔ +0.00483 BTC · Γ +4.01e-07 BTC/$\nVega +$1.17/vol pt · Theta -$0.49/day\nID:\n4079759947437535232",
     "url": "https://t.me/laevitas/593985",
     "utc": "2026-11-07T22:13:47+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593986",
+    "post_id": 593986,
+    "source": "public_html",
+    "text": "HEDGED OPTIONS STRATEGY\nDeribit · BTC · BLOCK TRADE\n07 Nov 2026 23:28:06 UTC\nOption · Close\n🔴\nSELL 2 BTC\n·\n74,000 Put · 27 Nov 26\n@ $1,778.62 · IV 38.34%\nBid $1,778.62 · Ask $1,816.46 · at bid\n∆OI: 1,780.4 → 1,778.4 (-0.1%)\nOption · Close\n🔴\nSELL 0.9 BTC\n·\n75,000 Put · 13 Nov 26\n@ $1,097.44 · IV 39.57%\nBid $1,097.44 · Ask $1,173.13 · at bid\n∆OI: 1,006.6 → 1,005.7 (-0.1%)\nOption · Close\n🔴\nSELL 4 BTC\n·\n72,000 Put · 27 Nov 26\n@ $1,180.7 · IV 39.89%\nBid $1,173.13 · Ask $1,248.82 · inside spread\n∆OI: 1,180.9 → 1,176.9 (-0.3%)\nOption · Close\n🔴\nSELL 2 BTC\n·\n69,000 Put · 27 Nov 26\n@ $643.329 · IV 43.25%\nBid $643.329 · Ask $681.172 · at bid\n∆OI: 1,708.9 → 1,706.9 (-0.1%)\nOption · Close\n🟢\nBUY 5 BTC\n·\n78,000 Call · 27 Nov 26\n@ $1,710.5 · IV 37.07%\nBid $1,665.09 · Ask $1,740.77 · inside spread\n∆OI: 1,162.6 → 1,157.6 (-0.4%)\nOption\n🔴\nSELL 1 BTC\n·\n72,000 Put · 13 Nov 26\n@ $370.861 · IV 44.53%\nBid $378.429 · Ask $416.272 · below bid\n∆OI: 2,176.3 → 2,176.3\nOption\n🔴\nSELL 3.3 BTC\n·\n75,000 Put · 27 Nov 26\n@ $2,172.18 · IV 37.80%\nBid $2,157.05 · Ask $2,232.73 · inside spread\n∆OI: 3,163.2 → 3,163.2\nOption\n🔴\nSELL 2 BTC\n·\n70,000 Put · 13 Nov 26\n@ $189.215 · IV 49.32%\nBid $211.92 · Ask $227.057 · below bid\n∆OI: 1,474 → 1,474\nOption\n🔴\nSELL 3 BTC\n·\n73,000 Put · 27 Nov 26\n@ $1,453.17 · IV 39.09%\nBid $1,438.03 · Ask $1,513.72 · inside spread\n∆OI: 1,176 → 1,176\nOption\n🔴\nSELL 1 BTC\n·\n74,000 Put · 13 Nov 26\n@ $764.427 · IV 40.83%\nBid $794.701 · Ask $832.544 · below bid\n∆OI: 4,198 → 4,198\nHedge\n🔴\nSELL 4.20978 BTC\n·\nBTC-27NOV26\n@ $75,935\nBid $75,930 · Ask $75,940 · inside spread\n∆OI: 46,821,090 → 46,821,090\nNet cash received:\n$15,043.31 ·\nOptions notional:\n$1,831,596.85 ·\nHedge notional:\n$319,670.00\nSpot:\n$75,685.82\nID:\nBLOCK-305338",
+    "url": "https://t.me/laevitas/593986",
+    "utc": "2026-11-07T23:28:13+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593987",
+    "post_id": 593987,
+    "source": "public_html",
+    "text": "CUSTOM STRATEGY\nDeribit · SOL · BLOCK TRADE\n07 Nov 2026 23:29:47 UTC\nFull details below.",
+    "url": "https://t.me/laevitas/593987",
+    "utc": "2026-11-07T23:29:54+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593988",
+    "post_id": 593988,
+    "source": "public_html",
+    "text": "🔴\nSELL 50 SOL\n·\n106 Call · 13 Nov 26\n@ $0.1 · IV 74.11%\nBid $0.1 · Ask $0.1 · at bid/ask\n∆OI: 1,320 → 1,320\n🟢\nBUY 60 SOL\n·\n114 Put · 25 Dec 26\n@ $25.5 · IV 57.59%\nBid $25.3 · Ask $25.8 · inside spread\n∆OI: 750 → 750\n🔴\nSELL 80 SOL\n·\n70 Put · 25 Dec 26\n@ $1.1 · IV 60.77%\nBid $1.1 · Ask $1.2 · at bid\n∆OI: 5,890 → 5,890\n🔴\nSELL 20 SOL\n·\n84 Put · 27 Nov 26\n@ $2.3 · IV 57.31%\nBid $2.2 · Ask $2.3 · at ask\n∆OI: 1,300 → 1,280 (-1.5%)\n🟢\nBUY 200 SOL\n·\n100 Put · 25 Dec 26\n@ $13.7 · IV 55.32%\nBid $13.4 · Ask $13.9 · inside spread\n∆OI: 2,720 → 2,720\n🟢\nBUY 80 SOL\n·\n105 Put · 25 Dec 26\n@ $17.7 · IV 56.45%\nBid $17.4 · Ask $17.9 · inside spread\n∆OI: 2,420 → 2,420\n🟢\nBUY 150 SOL\n·\n95 Put · 13 Nov 26\n@ $6.2 · IV 57.25%\nBid $6.1 · Ask $6.4 · inside spread\n∆OI: 6,550 → 6,400 (-2.3%)\n🟢\nBUY 170 SOL\n·\n150 Call · 25 Dec 26\n@ $0.2 · IV 68.77%\nBid $0.2 · Ask $0.3 · at bid\n∆OI: 32,210 → 32,210\n🔴\nSELL 160 SOL\n·\n145 Call · 25 Dec 26\n@ $0.3 · IV 69.40%\nBid $0.2 · Ask $0.4 · inside spread\n∆OI: 4,080 → 4,080\n🟢\nBUY 30 SOL\n·\n110 Put · 25 Dec 26\n@ $21.9 · IV 56.60%\nBid $21.7 · Ask $22.2 · inside spread\n∆OI: 1,220 → 1,220\n🟢\nBUY 160 SOL\n·\n140 Call · 25 Dec 26\n@ $0.4 · IV 68.73%\nBid $0.3 · Ask $0.4 · at ask\n∆OI: 7,150 → 7,150\n🔴\nSELL 80 SOL\n·\n86 Put · 27 Nov 26\n@ $2.9 · IV 55.50%\nBid $2.9 · Ask $3 · at bid\n∆OI: 3,450 → 3,370 (-2.3%)\n🔴\nSELL 600 SOL\n·\n90 Put · 27 Nov 26\n@ $4.6 · IV 53.36%\nBid $4.6 · Ask $4.8 · at bid\n∆OI: 7,800 → 7,800\n🟢\nBUY 100 SOL\n·\n92 Call · 25 Dec 26\n@ $6.2 · IV 55.59%\nBid $6.1 · Ask $6.2 · at ask\n∆OI: 1,650 → 1,650\n🔴\nSELL 100 SOL\n·\n82 Put · 13 Nov 26\n@ $0.4 · IV 62.55%\nBid $0.4 · Ask $0.5 · at bid\n∆OI: 2,730 → 2,730\nCost:\n$4,772.00 ·\nNotional:\n$182,286.50\nSpot:\n$89.36\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove      Spot       P&L\n+10%  $98.2917  -$195.16\n+6.3%       $95  -$206.17\n+3%       $92  +$113.59\n+0.7%       $90  +$241.08\nFlat  $89.3561  +$265.52\n-3.8%       $86  +$252.68\n-6%       $84  +$131.99\n-8.2%       $82   -$68.15\n-10%  $80.4205  -$434.52\nGreeks:\nΔ +14.58 SOL · Γ -13.07 SOL/$\nVega -$4.79/vol pt · Theta +$40.22/day\nID:\nBLOCK-305339",
+    "url": "https://t.me/laevitas/593988",
+    "utc": "2026-11-07T23:29:54+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593989",
+    "post_id": 593989,
+    "source": "public_html",
+    "text": "HEDGED OPTIONS STRATEGY\nDeribit · ETH · BLOCK TRADE\n07 Nov 2026 23:31:08 UTC\nOption · Close\n🔴\nSELL 22 ETH\n·\n2,000 Put · 27 Nov 26\n@ $33.2541 · IV 59.25%\nBid $32.3614 · Ask $34.5932 · inside spread\n∆OI: 8,415 → 8,393 (-0.3%)\nOption · Close\n🔴\nSELL 11 ETH\n·\n2,500 Call · 25 Dec 26\n@ $79.2296 · IV 52.62%\nBid $78.1137 · Ask $80.3455 · inside spread\n∆OI: 30,126 → 30,115 (-0.0%)\nOption · Close\n🟢\nBUY 28 ETH\n·\n2,250 Call · 27 Nov 26\n@ $101.994 · IV 52.67%\nBid $100.432 · Ask $102.664 · inside spread\n∆OI: 1,479 → 1,451 (-1.9%)\nOption · Close\n🟢\nBUY 20 ETH\n·\n2,600 Call · 25 Dec 26\n@ $58.2505 · IV 53.06%\nBid $56.9114 · Ask $59.1432 · inside spread\n∆OI: 12,799 → 12,779 (-0.2%)\nOption · Close\n🟢\nBUY 8 ETH\n·\n2,000 Call · 25 Dec 26\n@ $319.597 · IV 56.47%\nBid $318.034 · Ask $321.382 · inside spread\n∆OI: 10,388 → 10,380 (-0.1%)\nOption · Close\n🟢\nBUY 11 ETH\n·\n2,400 Put · 13 Nov 26\n@ $176.76 · IV 53.51%\nBid $170.734 · Ask $184.125 · inside spread\n∆OI: 861 → 850 (-1.3%)\nOption · Close\n🔴\nSELL 8 ETH\n·\n2,100 Put · 20 Nov 26\n@ $39.5032 · IV 57.74%\nBid $37.9409 · Ask $40.1728 · inside spread\n∆OI: 2,429 → 2,421 (-0.3%)\nOption · Close\n🔴\nSELL 15 ETH\n·\n1,400 Put · 26 Mar 27\n@ $36.3787 · IV 64.07%\nBid $35.7091 · Ask $37.9409 · inside spread\n∆OI: 2,239 → 2,224 (-0.7%)\nOption\n🟢\nBUY 9 ETH\n·\n1,800 Call · 25 Dec 26\n@ $479.395 · IV 61.45%\nBid $475.378 · Ask $482.073 · inside spread\n∆OI: 2,445 → 2,445\nOption\n🔴\nSELL 18 ETH\n·\n2,150 Put · 13 Nov 26\n@ $27.6746 · IV 57.05%\nBid $26.7818 · Ask $29.0137 · inside spread\n∆OI: 2,266 → 2,266\nOption\n🟢\nBUY 20 ETH\n·\n2,600 Put · 25 Dec 26\n@ $410.878 · IV 53.07%\nBid $406.191 · Ask $416.234 · inside spread\n∆OI: 2,846 → 2,846\nOption\n🔴\nSELL 12 ETH\n·\n3,000 Call · 27 Nov 26\n@ $3.34773 · IV 64.12%\nBid $3.12455 · Ask $3.79409 · inside spread\n∆OI: 19,735 → 19,735\nOption\n🟢\nBUY 16 ETH\n·\n2,300 Call · 20 Nov 26\n@ $58.92 · IV 52.65%\nBid $56.9114 · Ask $59.1432 · inside spread\n∆OI: 2,474 → 2,474\nOption\n🔴\nSELL 15 ETH\n·\n1,500 Put · 26 Mar 27\n@ $47.3146 · IV 61.56%\nBid $46.8682 · Ask $47.9841 · inside spread\n∆OI: 4,064 → 4,064\nOption\n🔴\nSELL 12 ETH\n·\n1,900 Put · 25 Dec 26\n@ $52.2246 · IV 58.36%\nBid $51.3319 · Ask $53.5637 · inside spread\n∆OI: 6,451 → 6,451\nOption\n🔴\nSELL 29 ETH\n·\n2,250 Put · 27 Nov 26\n@ $114.046 · IV 52.36%\nBid $112.707 · Ask $116.055 · inside spread\n∆OI: 5,698 → 5,698\nOption\n🟢\nBUY 10 ETH\n·\n2,600 Call · 27 Nov 26\n@ $16.7386 · IV 54.24%\nBid $15.6227 · Ask $17.8546 · inside spread\n∆OI: 4,837 → 4,837\nHedge · Open\n🔴\nSELL 32.026 ETH\n·\nETH-PERPETUAL\n@ $2,231\nBid $2,232.5 · Ask $2,232.55 · below bid\n∆OI: 257,082,017 → 257,086,814 (+0.0%)\nNet cash paid:\n$14,517.32 ·\nOptions notional:\n$589,200.48 ·\nHedge notional:\n$71,450.00\nSpot:\n$2,231.82\nID:\nBLOCK-305340",
+    "url": "https://t.me/laevitas/593989",
+    "utc": "2026-11-07T23:31:14+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593990",
+    "post_id": 593990,
+    "source": "public_html",
+    "text": "HEDGED OPTIONS STRATEGY\nDeribit · BTC · BLOCK TRADE\n07 Nov 2026 23:34:23 UTC\nOption · Close\n🟢\nBUY 0.9 BTC\n·\n60,000 Put · 25 Dec 26\n@ $484.654 · IV 49.33%\nBid $454.363 · Ask $530.09 · inside spread\n∆OI: 6,666.7 → 6,665.8 (-0.0%)\nOption · Close\n🟢\nBUY 3.3 BTC\n·\n54,000 Put · 25 Dec 26\n@ $242.327 · IV 56.74%\nBid $219.609 · Ask $242.327 · at ask\n∆OI: 1,994.9 → 1,991.6 (-0.2%)\nOption · Close\n🟢\nBUY 1.7 BTC\n·\n70,000 Put · 25 Dec 26\n@ $1,878.03 · IV 41.26%\nBid $1,817.45 · Ask $1,893.18 · inside spread\n∆OI: 2,488.9 → 2,487.2 (-0.1%)\nOption\n🟢\nBUY 1 BTC\n·\n68,000 Call · 25 Dec 26\n@ $9,655.21 · IV 42.44%\nBid $9,541.62 · Ask $9,768.8 · inside spread\n∆OI: 1,014.7 → 1,014.7\nOption\n🔴\nSELL 2 BTC\n·\n74,000 Put · 20 Nov 26\n@ $1,355.52 · IV 39.42%\nBid $1,325.23 · Ask $1,400.95 · inside spread\n∆OI: 196.4 → 196.4\nOption\n🟢\nBUY 1 BTC\n·\n56,000 Put · 25 Dec 26\n@ $302.909 · IV 54.14%\nBid $280.191 · Ask $310.481 · inside spread\n∆OI: 627.1 → 627.1\nOption\n🟢\nBUY 3.8 BTC\n·\n78,000 Call · 20 Nov 26\n@ $1,234.35 · IV 37.80%\nBid $1,211.63 · Ask $1,249.5 · inside spread\n∆OI: 334.4 → 334.4\nOption\n🟢\nBUY 3 BTC\n·\n55,000 Put · 25 Dec 26\n@ $272.618 · IV 55.50%\nBid $249.9 · Ask $272.618 · at ask\n∆OI: 3,468.3 → 3,468.3\nOption\n🔴\nSELL 0.5 BTC\n·\n68,000 Put · 25 Dec 26\n@ $1,431.24 · IV 42.53%\nBid $1,400.95 · Ask $1,476.68 · inside spread\n∆OI: 1,306.1 → 1,306.1\nOption\n🟢\nBUY 3 BTC\n·\n80,000 Call · 25 Dec 26\n@ $2,627.73 · IV 37.85%\nBid $2,574.72 · Ask $2,650.45 · inside spread\n∆OI: 8,154.1 → 8,154.1\nOption\n🟢\nBUY 2 BTC\n·\n82,000 Put · 25 Dec 26\n@ $7,678.74 · IV 37.78%\nBid $7,610.58 · Ask $7,762.03 · inside spread\n∆OI: 1,415.9 → 1,415.9\nOption\n🔴\nSELL 0.1 BTC\n·\n75,000 Put · 27 Nov 26\n@ $2,180.94 · IV 38.16%\nBid $2,158.22 · Ask $2,196.09 · inside spread\n∆OI: 3,163.2 → 3,163.2\nOption\n🔴\nSELL 4.2 BTC\n·\n40,000 Put · 25 Jun 27\n@ $613.39 · IV 54.96%\nBid $605.817 · Ask $643.681 · inside spread\n∆OI: 1,379.2 → 1,379.2\nOption\n🔴\nSELL 3 BTC\n·\n82,000 Call · 25 Dec 26\n@ $1,999.2 · IV 37.64%\nBid $1,968.91 · Ask $2,044.63 · inside spread\n∆OI: 1,590.3 → 1,590.3\nHedge · Close\n🔴\nSELL 0.785528 BTC\n·\nBTC-PERPETUAL\n@ $75,707\nBid $75,747 · Ask $75,747.5 · below bid\n∆OI: 685,678,940 → 685,619,470 (-0.0%)\nNet cash paid:\n$30,917.13 ·\nOptions notional:\n$2,233,951.52 ·\nHedge notional:\n$59,470.00\nSpot:\n$75,727.17\nID:\nBLOCK-305341",
+    "url": "https://t.me/laevitas/593990",
+    "utc": "2026-11-07T23:34:30+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": false,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593991",
+    "post_id": 593991,
+    "source": "public_html",
+    "text": "📦\nBLOCK FLOW — last 8h (16:00–00:00 UTC)\n────────────────────────\n💰\n$9.2M notional | 54 blocks | $198K premium\nvs prior 8h: -39% · vs 7d avg: -98%\n────────────────────────\n🏛\nBy venue\nDeribit  $4.8M  53%\nDerive   $4.3M  47%\nOKX       $16K  <1%\nParadex  $7.6K  <1%\n────────────────────────\n🤝\nBy provider\nVenue-native  $9.2M  100%\nParadigm      $7.6K   <1%  (Paradex $7.6K)\n────────────────────────\n🪙\nBy currency\nBTC $5.9M 64% · ETH $2.6M 28% · HYPE $501K 5% · SOL $183K 2% · other $8.1K\n────────────────────────\n🧩\nTop structures: Hedged options strategy $4.7M · Put $2.3M · Call spread $791K\n🐋\nLargest: BTC 20NOV26/27NOV26/25DEC26/25JUN27 40k/54k/55k/56k/60k/68k/70k/74k/75k/78k/80k/82k hedged options strategy — $2.2M (Venue-native · Deribit)\n🧭\nView: Bullish 85% · Bearish 8% · Long vol 6% · Short vol <1% · (rolls/other $4.8M)\n────────────────────────\n📊\nOptions Flows →\nhttps://v3.laevitas.ch/crypto/options-flows?window=24h\n#blockflow",
+    "url": "https://t.me/laevitas/593991",
+    "utc": "2026-11-08T00:03:13+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593992",
+    "post_id": 593992,
+    "source": "public_html",
+    "text": "BULL DIAGONAL SPREAD (Puts)\nDeribit · ETH · BLOCK TRADE\n08 Nov 2026 01:35:15 UTC\n🔴\nSELL 125 ETH\n·\n2,420 Put · 10 Nov 26\n@ $188.011 · IV 56.88%\nBid $181.982 · Ask $195.38 · inside spread\nOI: 125\n🟢\nBUY 125 ETH\n·\n2,440 Put · 08 Nov 26\n@ $207.215 · IV 125.64%\nBid $202.079 · Ask $214.36 · inside spread\n∆OI: 253 → 128 (-49.4%)\nCost:\n$2,400.49 ·\nNotional:\n$558,228.75\nSpot:\n$2,232.91\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove       Spot      P&L\n+15%  $2,567.85  -$2.87K\n+10%   $2,456.2  -$5.57K\n+9.3%     $2,440  -$6.35K\n+8.4%     $2,420  -$4.98K\nFlat  $2,232.91  -$31.90\nGreeks:\nΔ -4.17 ETH · Γ -0.0807 ETH/$\nVega -$17.20/vol pt · Theta -$17.29/day\nID:\nBLOCK-305342",
+    "url": "https://t.me/laevitas/593992",
+    "utc": "2026-11-08T01:35:22+00:00"
+  },
+  {
+    "channel": "laevitas",
+    "has_media": true,
+    "has_verified_timestamp": true,
+    "key": "laevitas/593993",
+    "post_id": 593993,
+    "source": "public_html",
+    "text": "BULL DIAGONAL SPREAD (Puts)\nDeribit · ETH · BLOCK TRADE\n08 Nov 2026 01:36:41 UTC\n🟢\nBUY 125 ETH\n·\n2,440 Put · 08 Nov 26\n@ $207.837 · IV 237.09%\nBid $200.917 · Ask $213.195 · inside spread\n∆OI: 3 → 3\n🔴\nSELL 125 ETH\n·\n2,420 Put · 10 Nov 26\n@ $188.639 · IV 56.54%\nBid $180.825 · Ask $193.103 · inside spread\n∆OI: 125 → 250 (+100.0%)\nCost:\n$2,399.84 ·\nNotional:\n$558,102.50\nSpot:\n$2,232.41\nPayoff limits:\nmodel-dependent\nFirst-expiry P&L:\nMove       Spot      P&L\n+15%  $2,567.27  -$2.87K\n+10%  $2,455.65  -$5.57K\n+9.3%     $2,440  -$6.32K\n+8.4%     $2,420  -$4.95K\nFlat  $2,232.41  -$24.82\nGreeks:\nΔ +6.33 ETH · Γ +0.0378 ETH/$\nVega -$5.73/vol pt · Theta -$5.11K/day\nID:\nBLOCK-305343",
+    "url": "https://t.me/laevitas/593993",
+    "utc": "2026-11-08T01:36:48+00:00"
   }
 ]
